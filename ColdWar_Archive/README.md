@@ -19,13 +19,14 @@ A collection of =/- 10 artefacts collected by me, which are focussed on the tens
 ## Metadata
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG K21/985](https://search.iisg.amsterdam/Record/1109411)
-| **Physical Description** | Copper Bust
+**IISG Call Number** | [IISG BG X1/39](https://search.iisg.amsterdam/Record/1069677)
+| **Physical Description** | Wood; 67x61cm; 34x50 cm.
 | **Type** | Object
-| **Medium** | Sculpture
-| **Materials** | Copper, Steel
-| **Date** | 1912
-|![enter image description here](https://i.etsystatic.com/17079094/r/il/3ec709/1578951673/il_794xN.1578951673_liqk.jpg)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
+| **Medium** | Box
+| **Materials** | Wood, Cardboard, Chalk, Steel
+| **Date** | 1900-1904 1905-1909
+| **Note** | Het kienspel bestaat uit twee kisten.
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+X1%2F39&size=small&title=%5BObject.%5D+International+Organisation+of+Good+Templars.&pid=30051001577466&publication=pictoright)| Box from wood; 67x61 cm; 34x50 cm With metal handles and a lock system a label on top: "120 Kaarten 90 Schijven LOGE Plaats voor Allen Nr 61 (Place for all) In Haarlem".
 
 # General Research
 My original artefact was a 'Kienspel' (Dutch for a boardgame, similar to Bingo), from the International Organisation of Good Templars, whose international body is known as Movendi International, is a fraternal organization which is part of the temperance movement, promoting abstinence from alcohol and other drugs. While I was getting more information on the IOGT I found out that they used this boardgame to gain extra cash income for their organisation and also used as an tool to gather and force their followers to meet more often, since it is a gambling game, people are more likely to come more often to play. While I was looking at the history of games I found interesting articles about how a lot of governments use games as propaganda and as a tool for recruitment. I figured I was not so interested in the actual movement of IOGT, but rather their use a of a game as a tool for propaganda, so I continued my research and found articles about how the Soviet Union, under Stalin's power used socialist realism, a particular form of propaganda disguised as art that glorified the Soviet state and party, its workers, and depicted scenes from everyday life.
@@ -152,7 +153,7 @@ John rafman codes of horror
 <summary>New Artefact — Boardgame with possible ties to propaganda</summary>
 <br>
 
-<img src="Documentation/img/Screen_Shot_2020-03-16_at_09.07.36.png" width="50%">
+<img src="Documentation/img/Screen_Shot_2020-03-16_at_09.07.36.png" width="100%">
 
 MetaData:
 Stavime Stalinuv Pomnik
@@ -198,14 +199,11 @@ Stalin, with a commander and soldiers? Background Clouds filled with stars.
 <details>
 <summary>Russia, Stalin and Propaganda</summary>
 <br>
-**What forms of propaganda did Stalin use?**
+**What forms of propaganda did Stalin use**?
 
 Soviet **propaganda** under **Stalin** was dominated by socialist realism, a particular **form of propaganda** disguised as art that glorified the Soviet state and party, its workers, and depicted scenes from everyday life.
 
-Statues of Stalin
-
-I am looking for a story to visualise in my game about propaganda and Stalin.
-
+Statues of Stalin were also a big part of Stalins propaganda.
 
 [Stalin's lifehacks: How to ruthlessly take power and get away with it](https://www.rbth.com/history/330225-joseph-stalin-rise-power-politics)
 
