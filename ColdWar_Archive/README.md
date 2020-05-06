@@ -33,6 +33,8 @@ My original artefact was a 'Kienspel' (Dutch for a boardgame, similar to Bingo),
 Now I was getting excited, I learned a lot of historical facts which I either had forgotten or never learned, but my research did not end here, because again I found a new entry point, which has a lot of propaganda and power struggles, because I wanted my video game to have a more global view, a good topic to show propaganda from 'both' sides of the world: The Cold War. I focussed my research on the first part of the Cold War; on the NATO and Warsaw Pact, the Space Race and the Arms Race.
 
 
+
+
 ## Research on Games
 Entrypoints for research:
 - Gaming as a connection with others (bindingsmiddel)
@@ -144,7 +146,7 @@ John rafman codes of horror
 
 </details>
 
-<br>
+
 
 ### Research on Russia and propaganda
 
@@ -251,9 +253,6 @@ A tool to analise other games use of Propaganda
 Archiving a war experience—> Be a hero within this history
 Only talking about specific army games and their ideology.
 
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
 
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
@@ -283,7 +282,6 @@ The tool is made for getting a better understanding of artefacts from the Cold w
 
 ### Methods
 C# — WebGL — HTML — CSS — JS
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
 
 ### Results
 My result is combining my transcoded models into a video game about the Cold War.
