@@ -56,8 +56,9 @@ Entrypoints for research:
 
   > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
 
-  Bingo as a teaching tool.
+
   <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="25%">
+    Bingo as a teaching tool.
 
   > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
 
@@ -132,12 +133,11 @@ Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein
     Some streamers have huge fanbases, whom watch their livestreams, most streamers try not to be political, but this platform could be a perfect way to distribute propaganda.
     Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
 
-    <img src="Documentation/img/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg" width="50%">
-    ![Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg](Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg)
+    <img src="Documentation/img/C9spQFDXcAAXPRP.jpg" width="50%">
 
-    ![Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg](Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg)
+    <img src="Documentation/img/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg" width="50%">  
 
-    ![Catalog%20Of%20Archival%20Resilence/download.jpeg](Catalog%20Of%20Archival%20Resilence/download.jpeg)
+    <img src="Documentation/img/download.jpeg" width="50%">
 
 John rafman codes of horror
 [https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
@@ -152,7 +152,7 @@ John rafman codes of horror
 <summary>New Artefact — Boardgame with possible ties to propaganda</summary>
 <br>
 
-![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
+<img src="Documentation/img/Screen_Shot_2020-03-16_at_09.07.36.png" width="50%">
 
 MetaData:
 Stavime Stalinuv Pomnik
@@ -169,7 +169,7 @@ Caricature
 
 Czechoslovakia
 
-![Catalog%20Of%20Archival%20Resilence/StalinBoard.jpg](Catalog%20Of%20Archival%20Resilence/StalinBoard.jpg)
+<img src="Documentation/img/StalinBoard.jpg" width="50%">
 
 What do I see in the picture?
 
@@ -242,7 +242,7 @@ My transcoding process was a bit unusual, I started from a Bingo artefact from t
 ## Transcoding No. 1
 ### Description
 First transcoding, to get the ball rolling. A mindmap about America's current state of affairs in the gaming branch with ties to propaganda. This is from my research about propaganda in videogames, focussed on Americas military recruitment tools.
-![Catalog%20Of%20Archival%20Resilence/USA.jpg](Catalog%20Of%20Archival%20Resilence/USA.jpg)
+<img src="Documentation/img/USA.jpg" width="100%">
 
 
 Using C# Unity – Huge Abstract Boardgames
@@ -296,7 +296,7 @@ https://www.youtube.com/watch?v=VbZ9_C4-Qbo&list=PLsdG5n9AbYWPh7-UFkBcXeq7BUHRnT
 During this process I focussed a lot on the research and conceptual part of this project instead of focussing purely on the visual side, which is my 'normal' way of working, therefor I challenged myself and ran into problems which I have not encountered so far in my studies, which at times could be quite annoying, but also motivating.
 
 # Outcomes
-The outcome of this transcoding and toolmaking assignment is a game made in Unity, formatte with C#, filled with artefacts from the IISG library regarding the topics of the Cold War. This game will take you through multiple encounters to gain additional insights, which are not shown in the metadata in the collections from the IISG.
+The outcome of this transcoding and toolmaking assignment is a game made in Unity, formatted with C#, filled with artefacts from the IISG library regarding the topics of the Cold War. This game will take you through encounters to gain additional insights, which are not shown in the metadata in the collections from the IISG.
 
 ### Outcome Links
 Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
