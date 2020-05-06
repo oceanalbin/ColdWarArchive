@@ -57,7 +57,7 @@ Entrypoints for research:
   > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
 
   Bingo as a teaching tool.
-  <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="50%">
+  <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="25%">
 
   > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
 
@@ -132,6 +132,7 @@ Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein
     Some streamers have huge fanbases, whom watch their livestreams, most streamers try not to be political, but this platform could be a perfect way to distribute propaganda.
     Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
 
+    <img src="Documentation/img/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg" width="50%">
     ![Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg](Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg)
 
     ![Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg](Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg)
