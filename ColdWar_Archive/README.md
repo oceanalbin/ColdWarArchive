@@ -50,7 +50,7 @@ Entrypoints for research:
 
   In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
 
-  <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.58.41.png"> width="50%">
+  <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.58.41.png" width="50%">
 
   ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png)
 
