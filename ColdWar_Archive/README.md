@@ -121,15 +121,11 @@ Games as a tool for recruiting for the army and spreading negative message about
 [The 10 political games everyone should play](https://www.theguardian.com/technology/gamesblog/2006/oct/26/tenseriousgam)
 
 Multiple games with political statements.
-
-Abstinence
-
-**The urgency of preserving this object**
-
-Not because of this object, but because of its topic.
+Game examples: COD("terrorists", of multiple etniticities), Wolfenstein(nazis) uses a lot of propaganda
 
 - Streamers
 
+    Some streamers have huge fanbases, whom watch their livestreams, most streamers try not to be political, but this platform could be a perfect way to distribute propaganda.
     Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
 
     ![Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg](Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg)
@@ -139,12 +135,11 @@ Not because of this object, but because of its topic.
     ![Catalog%20Of%20Archival%20Resilence/download.jpeg](Catalog%20Of%20Archival%20Resilence/download.jpeg)
 
 John rafman codes of horror
-
 [https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
 
 </details>
 
-### Research Sub-sub-heading (H3)
+### Research on Russia and propaganda
 
 <details>
 <summary>New Artefact — Boardgame with possible ties to propaganda</summary>
