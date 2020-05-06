@@ -1,8 +1,8 @@
 [<img src="Documentation/img/cover_img.png" width="100%">](#)
-# TITLE HERE Example README.md Outline
+# The Cold Race
 
 ### Table of Contents
-1. [Artefact](#Artefact)
+1. [Artefacts of the Cold War](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research-h1)
 3. [Transcoding](#Transcoding)
@@ -13,7 +13,7 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography)
 
-# Artefact
+# Artefacts of the Cold War
 A collection of =/- 10 artefacts collected by me, which are focussed on the tensions between the Eastern and Western fronts during memorable/important moments in the Cold War. These artefacts vary from posters to drawings to images.
 
 You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.  
@@ -38,9 +38,222 @@ Now I was getting excited, I learned a lot of historical facts which I either ha
 This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
 
 ## Research Sub-Heading (H2)
+Entrypoints for research:
+
+- Gaming as a connection with others (bindingsmiddel)
+
+- Gaming as an addiction
+
+- Useless hobby? Or ways to comprehend the real world/trauma
+
+- Gaming as a way to spread your ideals/propaganda
+
+-  Desperate to escape the unrelenting nature of a corporial existence
+
 Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
 
 ### Research Sub-sub-heading (H3)
+<details>
+<summary>What is Bingo?</summary>
+<br>
+    A game which dates back to 1530 in Italy, the standardised version dates back to 1920's America.
+
+    In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
+
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png)
+
+    [Bingo (American version)](https://en.wikipedia.org/wiki/Bingo_(American_version))
+
+    > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
+
+    Bingo as a teaching tool.
+
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png)
+
+    > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
+
+    Connection to International Organisation of Good Templars, which can be compared to a church or charity organisation, they could use it to get some extra income for the organisation.
+
+    > Bingo has gone beyond a fundraising role and is often featured in bars and nightclubs as a social and entertainment event, attracting a loyal following of regular players. Many venues promote a bingo event to attract customers at off-peak times, such as weeknights and Sundays, which are traditionally slower for such businesses. The games are called by drag and non-drag hosts alike and often include ancillary activities such as cabaret shows, contests and other themed activities that add interest and encourage audience participation. Customers are invited to play for a chance to win cash and other prizes.
+
+    Therefor this game can organise a sense of unity and community between followers of the IOoGT. A method of bonding.
+
+    ## Kienspel(Dutch)
+
+    My own view on Bingo: in Dutch culture it is mainly used as a game to socialise and entertain elderly people, you often see Bingo nights in care houses.
+
+    ## What is the purpose of this game and why would the "International Organisation of Good Templars" make use of it?
+
+    There are multiple purposes of Bingo, but my guess at the purpose of Bingo within the IOoGT is to create a cash flow income to help them spread their message in a better way. Also to create a community, a reason to get together to form a group, so a method of bonding between ints followers.
+
+    ## Intersting specifications in Bingo/Games:
+
+    Patterns
+
+    RNG
+
+    [RNG or random number generator: the reality about luck in video games](https://aldelaro5.wordpress.com/2016/05/16/rng-or-random-number-generator-the-reality-about-luck-in-video-games/)
+
+    [Are Random Number Generators Really Random?](https://www.knowtherng.com/are-random-number-generators.html)
+
+    [Is the RNG wholly random, or does it have patterns?](https://www.reddit.com/r/darkestdungeon/comments/36q8de/is_the_rng_wholly_random_or_does_it_have_patterns/)
+
+    [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
+
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
+</details>
+
+<br>
+<h2>Propaganda in video games</h2>
+<details>
+<summary>Research</summary>
+<br>
+[Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
+
+The person on the podcast tells how all of his life he is forced by big shooter games to see his own nation as terrorists. In the game the metal gear solid which is set in afghanistan he goes in game to the place he used to live and finds his father and brother.
+
+For instance Epic Games made a statement they do not want to convey political messages
+
+[Seven video games that also serve as propaganda](https://caravanmagazine.in/vantage/seven-video-games-also-serve-propaganda)
+
+Games as a tool for recruiting for the army and spreading negative message about other nationalities.
+
+> America’s Army was released by the US Army on 4 July 2002 and, up until now, 41 versions of the game have been released in total, all financed by the US government and available for free download. The game is a recruitment tool, and each version has two parts: Operations, in which the player battles opponents in a first-person shooter mode, and Soldiers, in which the player advances up the various ranks.
+
+[Video Games Can Be a Powerful Force for Propaganda](https://medium.com/war-is-boring/video-games-can-be-a-powerful-force-for-propaganda-983d48da702b)
+
+> Video games are an industry worth tens of billions of dollars. These interactive games make more money than Hollywood and the music industry combined. Video games can be great fun and even great art, but they can also make for great propaganda.
+
+[](https://pcijstoryproject.org/exploring-the-use-of-video-games-as-propaganda-87833eede6e4)
+
+[Metal Wolf Chaos](https://en.wikipedia.org/wiki/Metal_Wolf_Chaos)
+
+> Metal Wolf Chaos is a third-person shooter video game developed and published by FromSoftware. It was released for the Xbox exclusively in Japan in 2004. The player takes on the role of fictional President of the United States Michael Wilson piloting a mech to battle the rebelling military led by fictional Vice President Richard Hawk.
+
+[The 10 political games everyone should play](https://www.theguardian.com/technology/gamesblog/2006/oct/26/tenseriousgam)
+
+Multiple games with political statements.
+
+Abstinence
+
+**The urgency of preserving this object**
+
+Not because of this object, but because of its topic.
+
+- Streamers
+
+    Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
+
+    ![Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg](Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg)
+
+    ![Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg](Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg)
+
+    ![Catalog%20Of%20Archival%20Resilence/download.jpeg](Catalog%20Of%20Archival%20Resilence/download.jpeg)
+
+John rafman codes of horror
+
+[https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
+</details>
+
+
+<details>
+<summary>Notes 9 March(IMD)</summary>
+What it is what Im doing?
+
+Experiment nr1/Transcoding nr1
+
+Coding number chance calculator?
+
+Talk with my grandmother about Kienspellen
+
+</details>
+
+<details>
+<summary>New Artefact — Boardgames with possible ties to propaganda</summary>
+<br>
+
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
+
+MetaData:
+Stavime Stalinuv Pomnik
+Stavime = to represent/introduce/build/construct
+Stalinuv = Stalin
+Pomnik = monument/memorial/statue
+
+1950-1974
+1975-1999
+
+Stalin, former Russian President
+
+Caricature
+
+Czechoslovakia
+
+![Catalog%20Of%20Archival%20Resilence/StalinBoard.jpg](Catalog%20Of%20Archival%20Resilence/StalinBoard.jpg)
+
+What do I see in the picture?
+
+Stamp with a head
+
+Empty beerglass with red background and hammers & sickles surrounding it
+
+A dog?
+
+—
+
+Walking snowman—>ties with Marxism?
+
+Full glass of beer, filled with hammers & sickles
+
+A judge? with a loop? under it a hammer & sickles
+
+Someone voting, looks like he isnt there on freewill
+
+Stalin, with a commander and soldiers? Background Clouds filled with stars.
+
+[https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
+
+</details>
+
+<details>
+<summary>Russia, Stalin and Propaganda</summary>
+<br>
+**What forms of propaganda did Stalin use?**
+
+Soviet **propaganda** under **Stalin** was dominated by socialist realism, a particular **form of propaganda** disguised as art that glorified the Soviet state and party, its workers, and depicted scenes from everyday life.
+
+Statues of Stalin
+
+I am looking for a story to visualise in my game about propaganda and Stalin.
+
+
+[Stalin's lifehacks: How to ruthlessly take power and get away with it](https://www.rbth.com/history/330225-joseph-stalin-rise-power-politics)
+
+[Stalin rubble throws into focus Czechs' 20th-century struggles](https://www.theguardian.com/world/2018/sep/30/stalin-rubble-throws-into-focus-czechs-20th-century-struggles)
+
+[List of statues of Stalin](https://en.wikipedia.org/wiki/List_of_statues_of_Stalin)
+
+[Propaganda in the Soviet Union](https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union)
+
+[Propaganda through media](https://en.wikipedia.org/wiki/Propaganda_through_media)
+
+[How was propaganda used in World War One?](https://www.bbc.co.uk/bitesize/topics/zqhyb9q/articles/zhw3jhv)
+
+[Visual Essay: The Impact of Propaganda](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-6/visual-essay-impact-propaganda)
+
+[Joseph Stalin & Soviet Propaganda: Techniques & Examples - Video & Lesson Transcript | Study.com](https://study.com/academy/lesson/joseph-stalin-soviet-propaganda-techniques-examples.html)
+
+</details>
+
+<details>
+<summary>Cold War</summary>
+<br>
+The Cold War was a period of geopolitical tension between the Soviet Union and the United States and their respective allies, the Eastern Bloc and the Western Bloc, after World War II. The period is generally considered to span the 1947 Truman Doctrine to the 1991 dissolution of the Soviet Union. The term "cold" is used because there was no large-scale fighting directly between the two superpowers, but they each supported major regional conflicts known as proxy wars. The conflict was based around the ideological and geopolitical struggle for global influence by the two powers, following their temporary alliance and victory against Nazi Germany in 1945. The doctrine of mutually assured destruction (MAD) discouraged a pre-emptive attack by either side. Aside from the nuclear arsenal development and conventional military deployment, the struggle for dominance was expressed via indirect means such as psychological warfare, propaganda campaigns, espionage, far-reaching embargoes, rivalry at sports events and technological competitions such as the Space Race.<br><br>
+
+*So I have a good amount of entry points to make transcodings about: Western vs Eastern block, proxy wars, temporary alliance, Nuclear Arms Race(Coding direction), Military deployment, struggle of dominance, psychological warfare, propaganda campaigns, espionage and Space Race, to name a few.*
+
+</details>
+
 The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference.
 
 # Transcoding
@@ -53,6 +266,16 @@ Please include a general description of the role of transcoding in your project.
 
 ## Transcoding No. 1
 ### Description
+First transcoding, to get the ball rolling. A mindmap about America's current state of affairs in the gaming branch with ties to propaganda. This is from my research about propaganda in videogames, focussed on Americas military recruitment tools.
+![Catalog%20Of%20Archival%20Resilence/USA.jpg](Catalog%20Of%20Archival%20Resilence/USA.jpg)
+
+
+Using C# Unity – Huge Abstract Boardgames
+Different ideologies
+A tool to analise other games use of Propaganda
+Archiving a war experience—> Be a hero within this history
+Only talking about specific army games and their ideology.
+
 Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
 
 You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
