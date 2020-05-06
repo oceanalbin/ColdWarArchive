@@ -94,17 +94,20 @@ Entrypoints for research:
 <br>
 <h2>Propaganda in video games</h2>
 <details>
-<summary>Research</summary>
+<summary>Video games and Streamers</summary>
 <br>
+
+Jamil Jan Kochai tells how all of his life he is forced by big shooter games to see his own nation as terrorists. In the game the metal gear solid which is set in afghanistan he goes in game to the place he used to live and finds his father and brother. This podcast kickstarted my research into propaganda in video games.
 [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
-The person on the podcast tells how all of his life he is forced by big shooter games to see his own nation as terrorists. In the game the metal gear solid which is set in afghanistan he goes in game to the place he used to live and finds his father and brother.
+Epic Games (an American video game and software developer and publisher) made a statement they do not want to convey political messages... and even banning players who try to.
+> Epic Games CEO Tim Sweeney gave the keynote speech at this week’s DICE conference in Las Vegas. The talk touched on many topics, including data privacy, loot boxes, and the problems with a lack of cross-platform games. *It also seemed to call for keeping politics out of games, or at least out of marketing, or something.*
 
-For instance Epic Games made a statement they do not want to convey political messages
-
-[Seven video games that also serve as propaganda](https://caravanmagazine.in/vantage/seven-video-games-also-serve-propaganda)
+[Epic Boss' Confusing Comments About Games And Politics Don't Add Up](https://www.kotaku.com.au/2020/02/epic-boss-confusing-comments-about-games-and-politics-dont-add-up/)
 
 Games as a tool for recruiting for the army and spreading negative message about other nationalities.
+
+[Seven video games that also serve as propaganda](https://caravanmagazine.in/vantage/seven-video-games-also-serve-propaganda)
 
 > America’s Army was released by the US Army on 4 July 2002 and, up until now, 41 versions of the game have been released in total, all financed by the US government and available for free download. The game is a recruitment tool, and each version has two parts: Operations, in which the player battles opponents in a first-person shooter mode, and Soldiers, in which the player advances up the various ranks.
 
@@ -112,7 +115,9 @@ Games as a tool for recruiting for the army and spreading negative message about
 
 > Video games are an industry worth tens of billions of dollars. These interactive games make more money than Hollywood and the music industry combined. Video games can be great fun and even great art, but they can also make for great propaganda.
 
-[](https://pcijstoryproject.org/exploring-the-use-of-video-games-as-propaganda-87833eede6e4)
+[Exploring the use of video games as propaganda](https://pcijstoryproject.org/exploring-the-use-of-video-games-as-propaganda-87833eede6e4)
+
+>Late last year, Santiago Arnaiz, a recent journalism school graduate, received a grant from The PCIJ Story Project to work on a story on how video games have been used to drum up support for the Philippine war on drugs.
 
 [Metal Wolf Chaos](https://en.wikipedia.org/wiki/Metal_Wolf_Chaos)
 
@@ -121,7 +126,7 @@ Games as a tool for recruiting for the army and spreading negative message about
 [The 10 political games everyone should play](https://www.theguardian.com/technology/gamesblog/2006/oct/26/tenseriousgam)
 
 Multiple games with political statements.
-Game examples: COD("terrorists", of multiple etniticities), Wolfenstein(nazis) uses a lot of propaganda
+Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein(nazis) uses a lot of propaganda.
 
 - Streamers
 
@@ -138,6 +143,7 @@ John rafman codes of horror
 [https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
 
 </details>
+
 
 ### Research on Russia and propaganda
 
