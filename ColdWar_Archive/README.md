@@ -52,15 +52,12 @@ Entrypoints for research:
 
   <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.58.41.png" width="50%">
 
-  ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png)
-
   [Bingo (American version)](https://en.wikipedia.org/wiki/Bingo_(American_version))
 
   > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
 
   Bingo as a teaching tool.
-
-  ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png)
+  <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="50%">
 
   > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
 
@@ -80,9 +77,7 @@ Entrypoints for research:
 
   ## Intersting specifications in Bingo/Games:
 
-  Patterns
-
-  RNG
+  Patterns & RNG
 
   [RNG or random number generator: the reality about luck in video games](https://aldelaro5.wordpress.com/2016/05/16/rng-or-random-number-generator-the-reality-about-luck-in-video-games/)
 
@@ -92,7 +87,7 @@ Entrypoints for research:
 
   [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
 
-  ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
+  <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.58.54.png" width="50%">
 </details>
 
 
