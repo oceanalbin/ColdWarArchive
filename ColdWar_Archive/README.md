@@ -16,8 +16,6 @@
 # Artefacts of the Cold War
 A collection of =/- 10 artefacts collected by me, which are focussed on the tensions between the Eastern and Western fronts during memorable/important moments in the Cold War. These artefacts vary from posters to drawings to images.
 
-You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.  
-
 ## Metadata
 | Tag | Data |  
 |--|--|
@@ -29,30 +27,20 @@ You should include a short introduction about your artefact here. Keep in mind: 
 | **Date** | 1912
 |![enter image description here](https://i.etsystatic.com/17079094/r/il/3ec709/1578951673/il_794xN.1578951673_liqk.jpg)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
 
-# Research (H1)
+# General Research
 My original artefact was a 'Kienspel' (Dutch for a boardgame, similar to Bingo), from the International Organisation of Good Templars, whose international body is known as Movendi International, is a fraternal organization which is part of the temperance movement, promoting abstinence from alcohol and other drugs. While I was getting more information on the IOGT I found out that they used this boardgame to gain extra cash income for their organisation and also used as an tool to gather and force their followers to meet more often, since it is a gambling game, people are more likely to come more often to play. While I was looking at the history of games I found interesting articles about how a lot of governments use games as propaganda and as a tool for recruitment. I figured I was not so interested in the actual movement of IOGT, but rather their use a of a game as a tool for propaganda, so I continued my research and found articles about how the Soviet Union, under Stalin's power used socialist realism, a particular form of propaganda disguised as art that glorified the Soviet state and party, its workers, and depicted scenes from everyday life.
 
 Now I was getting excited, I learned a lot of historical facts which I either had forgotten or never learned, but my research did not end here, because again I found a new entry point, which has a lot of propaganda and power struggles, because I wanted my video game to have a more global view, a good topic to show propaganda from 'both' sides of the world: The Cold War. I focussed my research on the first part of the Cold War; on the NATO and Warsaw Pact, the Space Race and the Arms Race.
 
 
-This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
-
-## Research Sub-Heading (H2)
+## Research on Games
 Entrypoints for research:
-
 - Gaming as a connection with others (bindingsmiddel)
-
 - Gaming as an addiction
-
 - Useless hobby? Or ways to comprehend the real world/trauma
-
 - Gaming as a way to spread your ideals/propaganda
-
 -  Desperate to escape the unrelenting nature of a corporial existence
 
-Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
-
-### Research Sub-sub-heading (H3)
 <details>
 <summary>What is Bingo?</summary>
 <br>
@@ -153,23 +141,13 @@ Not because of this object, but because of its topic.
 John rafman codes of horror
 
 [https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
-</details>
-
-
-<details>
-<summary>Notes 9 March(IMD)</summary>
-What it is what Im doing?
-
-Experiment nr1/Transcoding nr1
-
-Coding number chance calculator?
-
-Talk with my grandmother about Kienspellen
 
 </details>
 
+### Research Sub-sub-heading (H3)
+
 <details>
-<summary>New Artefact — Boardgames with possible ties to propaganda</summary>
+<summary>New Artefact — Boardgame with possible ties to propaganda</summary>
 <br>
 
 ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
@@ -254,7 +232,6 @@ The Cold War was a period of geopolitical tension between the Soviet Union and t
 
 </details>
 
-The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference.
 
 # Transcoding
 I started my transcoding with a mindmap regarding the tensions between the Eastern and Western fronts. See image
