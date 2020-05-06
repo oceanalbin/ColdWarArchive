@@ -91,7 +91,7 @@ Entrypoints for research:
   ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
 </details>
 
-<br>
+
 <h2>Propaganda in video games</h2>
 <details>
 <summary>Video games and Streamers</summary>
@@ -144,6 +144,7 @@ John rafman codes of horror
 
 </details>
 
+<br>
 
 ### Research on Russia and propaganda
 
@@ -238,10 +239,6 @@ The Cold War was a period of geopolitical tension between the Soviet Union and t
 I started my transcoding with a mindmap regarding the tensions between the Eastern and Western fronts. See image
 My transcoding process was a bit unusual, I started from a Bingo artefact from the International Organisation of Good Templars, in this bingo game I found out that the IOGT used this bingo game as a leverage on their followers giving them an extra cash income + more gatherings of their followers. Unfortunately the object itself was not worth transcoding/basing my whole project on. From this point on I had quite a intensive research in the manifestation of propaganda in video games, which I was deeply interested in. After this I deepened my research into propaganda and arrived at propaganda during wartime and eventually the Cold War, which sprouted with propaganda. Now to start looking for a whole new artefact and topic would be a pity... I had the topic and idea to make a game about the Cold War, so I started looking for artefacts regarding the Cold War.
 
-
-
-Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
-
 ## Transcoding No. 1
 ### Description
 First transcoding, to get the ball rolling. A mindmap about America's current state of affairs in the gaming branch with ties to propaganda. This is from my research about propaganda in videogames, focussed on Americas military recruitment tools.
@@ -273,29 +270,23 @@ Remember to include the url link to jump to the full media, of course!
 The tools that I have used for this projects are TextEdit programs, to format and write HTML, CSS and JS. For the transcodings I used photoshop, to make sketches and Blender to model and texture props for my videogame.
 To make a videogame I used Unity for the visual creating and Visual Studio to code and format my C#.
 
-Mention the tools that you used or made (if and when relevant).
 
 ### Results
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
 
 ## Transcoding Tool
 ### Description
-My transcoding tool was mainly Blender this semester, to make useable models
-
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
+My transcoding tool was mainly Blender this semester, to make useable models and Unity to compile the models into one environment.
 
 ### Aims
 The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combing them into one world to see how they function together.
 
-Include the main aims or intentions behind making the tool, and what it is used for.
-
 ### Methods
-C# WebGL
+C# — WebGL — HTML — CSS — JS
 This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
 
 ### Results
 My result is combining my transcoded models into a video game about the Cold War.
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
 
 ### Source Links
 https://unity.com/
@@ -305,18 +296,11 @@ https://www.youtube.com/watch?v=NcOiFBu4L84&list=PL-9tAEcwCavo82iPBt3gh06Z8g53VW
 https://www.youtube.com/watch?v=DLgDGUgUeX0&list=PL-9tAEcwCavo82iPBt3gh06Z8g53VW0X7&index=25&t=0s
 https://www.youtube.com/watch?v=VbZ9_C4-Qbo&list=PLsdG5n9AbYWPh7-UFkBcXeq7BUHRnT0v9&index=5&t=0s
 
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
-
-
 # Reflection
 During this process I focussed a lot on the research and conceptual part of this project instead of focussing purely on the visual side, which is my 'normal' way of working, therefor I challenged myself and ran into problems which I have not encountered so far in my studies, which at times could be quite annoying, but also motivating.
 
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
-
 # Outcomes
 The outcome of this transcoding and toolmaking assignment is a game made in Unity, formatte with C#, filled with artefacts from the IISG library regarding the topics of the Cold War. This game will take you through multiple encounters to gain additional insights, which are not shown in the metadata in the collections from the IISG.
-
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible.
 
 ### Outcome Links
 Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
@@ -325,8 +309,6 @@ This is the main way to access your IMD + Coding outcomes for the semester. So i
 
 # Conclusion
 During this project I learned how to work with a rather hard to research archive, from the IISG. Learned new software; Blender, to make models of the artefacts. Unity, combined with Visual Studio to make a video game. I found out that making a proper functioning video game is quite a tedious and time consuming thing, but also a rewarding experience.
-
-You might have a nice conclusive observation to share at the end :)
 
 ## Bibliography
 Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work.
