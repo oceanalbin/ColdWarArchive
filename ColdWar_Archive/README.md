@@ -44,51 +44,51 @@ Entrypoints for research:
 <details>
 <summary>What is Bingo?</summary>
 <br>
-    A game which dates back to 1530 in Italy, the standardised version dates back to 1920's America.
+  A game which dates back to 1530 in Italy, the standardised version dates back to 1920's America.
 
-    In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
+  In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
 
-    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png)
+  ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png)
 
-    [Bingo (American version)](https://en.wikipedia.org/wiki/Bingo_(American_version))
+  [Bingo (American version)](https://en.wikipedia.org/wiki/Bingo_(American_version))
 
-    > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
+  > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
 
-    Bingo as a teaching tool.
+  Bingo as a teaching tool.
 
-    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png)
+  ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png)
 
-    > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
+  > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
 
-    Connection to International Organisation of Good Templars, which can be compared to a church or charity organisation, they could use it to get some extra income for the organisation.
+  Connection to International Organisation of Good Templars, which can be compared to a church or charity organisation, they could use it to get some extra income for the organisation.
 
-    > Bingo has gone beyond a fundraising role and is often featured in bars and nightclubs as a social and entertainment event, attracting a loyal following of regular players. Many venues promote a bingo event to attract customers at off-peak times, such as weeknights and Sundays, which are traditionally slower for such businesses. The games are called by drag and non-drag hosts alike and often include ancillary activities such as cabaret shows, contests and other themed activities that add interest and encourage audience participation. Customers are invited to play for a chance to win cash and other prizes.
+  > Bingo has gone beyond a fundraising role and is often featured in bars and nightclubs as a social and entertainment event, attracting a loyal following of regular players. Many venues promote a bingo event to attract customers at off-peak times, such as weeknights and Sundays, which are traditionally slower for such businesses. The games are called by drag and non-drag hosts alike and often include ancillary activities such as cabaret shows, contests and other themed activities that add interest and encourage audience participation. Customers are invited to play for a chance to win cash and other prizes.
 
-    Therefor this game can organise a sense of unity and community between followers of the IOoGT. A method of bonding.
+  Therefor this game can organise a sense of unity and community between followers of the IOoGT. A method of bonding.
 
-    ## Kienspel(Dutch)
+  ## Kienspel(Dutch)
 
-    My own view on Bingo: in Dutch culture it is mainly used as a game to socialise and entertain elderly people, you often see Bingo nights in care houses.
+  My own view on Bingo: in Dutch culture it is mainly used as a game to socialise and entertain elderly people, you often see Bingo nights in care houses.
 
-    ## What is the purpose of this game and why would the "International Organisation of Good Templars" make use of it?
+  ## What is the purpose of this game and why would the "International Organisation of Good Templars" make use of it?
 
-    There are multiple purposes of Bingo, but my guess at the purpose of Bingo within the IOoGT is to create a cash flow income to help them spread their message in a better way. Also to create a community, a reason to get together to form a group, so a method of bonding between ints followers.
+  There are multiple purposes of Bingo, but my guess at the purpose of Bingo within the IOoGT is to create a cash flow income to help them spread their message in a better way. Also to create a community, a reason to get together to form a group, so a method of bonding between ints followers.
 
-    ## Intersting specifications in Bingo/Games:
+  ## Intersting specifications in Bingo/Games:
 
-    Patterns
+  Patterns
 
-    RNG
+  RNG
 
-    [RNG or random number generator: the reality about luck in video games](https://aldelaro5.wordpress.com/2016/05/16/rng-or-random-number-generator-the-reality-about-luck-in-video-games/)
+  [RNG or random number generator: the reality about luck in video games](https://aldelaro5.wordpress.com/2016/05/16/rng-or-random-number-generator-the-reality-about-luck-in-video-games/)
 
-    [Are Random Number Generators Really Random?](https://www.knowtherng.com/are-random-number-generators.html)
+  [Are Random Number Generators Really Random?](https://www.knowtherng.com/are-random-number-generators.html)
 
-    [Is the RNG wholly random, or does it have patterns?](https://www.reddit.com/r/darkestdungeon/comments/36q8de/is_the_rng_wholly_random_or_does_it_have_patterns/)
+  [Is the RNG wholly random, or does it have patterns?](https://www.reddit.com/r/darkestdungeon/comments/36q8de/is_the_rng_wholly_random_or_does_it_have_patterns/)
 
-    [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
+  [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
 
-    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
+  ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
 </details>
 
 <br>
