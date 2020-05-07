@@ -330,24 +330,24 @@ Terrain creation, learning to put objects in environment and controlling a playe
 
 Topics from the first part of the Cold War to use in the game and look for in the IISG:
 1. NATO, artefacts about the Nato
-<img src="Documentation/video/Nato.png" width="100%">
+<img src="Documentation/img/Nato.png" width="100%">
 2. Artefacts about the Warsaw Impact
-<img src="Documentation/video/USSr.png" width="100%">
-<img src="Documentation/video/Ussr2.png" width="100%">
+<img src="Documentation/img/USSr.png" width="100%">
+<img src="Documentation/img/Ussr2.png" width="100%">
 3. Space Race
 4. Arms Race
 
 <br>
 Filling environment with propaganda objects:<br>
 Posters will be flying around. ("the over the top distribution of propaganda/anti propaganda leaflets")
-<img src="Documentation/video/Leaf.png" width="100%">
-<img src="Documentation/video/Leaf2.png" width="100%">
-<img src="Documentation/video/Leaf3.png" width="100%">
+<img src="Documentation/img/Leaf.png" width="100%">
+<img src="Documentation/img/Leaf2.png" width="100%">
+<img src="Documentation/img/Leaf3.png" width="100%">
 <br>
 3D sculpts of Eppo's and Opland's drawings will be collectables.
-<img src="Documentation/video/Eppo.png" width="100%">
-<img src="Documentation/video/Eppo2.png" width="100%">
-<img src="Documentation/video/Opland.png" width="100%">
+<img src="Documentation/img/Eppo.png" width="100%">
+<img src="Documentation/img/Eppo2.png" width="100%">
+<img src="Documentation/img/Opland.png" width="100%">
 
 <br>
 Environment:<br>
