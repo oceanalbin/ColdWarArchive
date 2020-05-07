@@ -307,6 +307,14 @@ Progress of scripting with Visual Studio in C# language.
 <img src="Documentation/img/VisualStudio5.png" width="100%">
 <img src="Documentation/img/VisualStudio6.png" width="100%">
 
+VideoTests:
+1
+<img src="Documentation/video/FirstGameTest_1.mp4" width="100%">
+2
+<img src="Documentation/video/FirstGameTest.mp4" width="100%">
+3
+<img src="Documentation/video/cpu_micro_90.mp4" width="100%">
+
 ### Aims
 The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combing them into one world to see how they function together.
 
