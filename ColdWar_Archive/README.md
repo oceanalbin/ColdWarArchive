@@ -319,6 +319,44 @@ First Game
 Second Game
 <img src="Documentation/video/First2.gif" width="100%">
 Terrain creation, learning to put objects in environment and controlling a player.
+<br>
+
+<details>
+<summary>The Cold Race Concept</summary>
+<br>
+
+*Collect all the artefacts before the time runs out!* <br><br>
+
+
+Topics from the first part of the Cold War to use in the game and look for in the IISG:
+1. NATO, artefacts about the Nato
+2. Artefacts about the Warsaw Impact
+3. Space Race
+4. Arms Race
+
+<br>
+Filling environment with propaganda objects:<br>
+Posters will be flying around. ("the over the top distribution of propaganda leaflets")
+<br>
+3D sculpts of Eppo's drawings will be collectables.
+<br>
+Environment:<br>
+- Checkerboard ground <br>
+- Monopoly elements<br>
+<br>
+Sound (to experience a treatening war experience): <br>
+- Timer counting down(nuke). <br>
+- Planes flying over
+
+<br>
+
+Alternative showcase of project: <br>
+- Video of the gameplay <br>
+- Link to a website, to play the game in browser with WebGL
+<br>
+
+
+</details>
 
 ### Aims
 The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combing them into one world to see how they function together.
