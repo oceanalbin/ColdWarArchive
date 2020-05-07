@@ -7,7 +7,8 @@
 2. [Research](#Research-h1)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
+    2. [Transcoding No. 2](#Transcoding-no-1)
+    3. [Transcoding Tool](#Transcoding-tool)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
@@ -260,6 +261,24 @@ With some HTML tags you can do simple styling in markdown, for example:
 
 Remember to include the url link to jump to the full media, of course!
 
+## Transcoding No. 2
+### Description
+Second transcoding, a low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
+
+<img src="Documentation/img/Rocket1.png" width="100%">
+<img src="Documentation/img/Rocket2.png" width="100%">
+<img src="Documentation/img/Rocket3.png" width="100%">
+
+### Methods
+Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
+
+With some HTML tags you can do simple styling in markdown, for example:
+
+    <width="50%">
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+
+Remember to include the url link to jump to the full media, of course!
+
 
 ### Tools
 The tools that I have used for this projects are TextEdit programs, to format and write HTML, CSS and JS. For the transcodings I used photoshop, to make sketches and Blender to model and texture props for my videogame.
@@ -271,7 +290,22 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 
 ## Transcoding Tool
 ### Description
-My transcoding tool was mainly Blender this semester, to make useable models and Unity to compile the models into one environment.
+My transcoding tool was Blender, to make useable models and Unity to compile the models into one environment.
+
+Progress of starting to learn Unity.
+<img src="Documentation/img/FirstGame.png" width="100%">
+<img src="Documentation/img/FirstGame2.png" width="100%">
+<img src="Documentation/img/SecondGame.png" width="100%">
+<img src="Documentation/img/SecondGame2.png" width="100%">
+<img src="Documentation/img/SecondGame3.png" width="100%">
+
+Progress of scripting with Visual Studio in C# language.
+<img src="Documentation/img/VisualStudio.png" width="100%">
+<img src="Documentation/img/VisualStudio2.png" width="100%">
+<img src="Documentation/img/VisualStudio3.png" width="100%">
+<img src="Documentation/img/VisualStudio4.png" width="100%">
+<img src="Documentation/img/VisualStudio5.png" width="100%">
+<img src="Documentation/img/VisualStudio6.png" width="100%">
 
 ### Aims
 The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combing them into one world to see how they function together.
