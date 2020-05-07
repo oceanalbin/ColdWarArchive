@@ -1,4 +1,4 @@
-[<img src="Documentation/img/cover_img.png" width="100%">](#)
+[<img src="Documentation/img/TheColdRace.png" width="100%">](#)
 # The Cold Race
 
 ### Table of Contents
