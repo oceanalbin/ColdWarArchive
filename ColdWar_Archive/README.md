@@ -200,7 +200,8 @@ Stalin, with a commander and soldiers? Background Clouds filled with stars.
 <details>
 <summary>Russia, Stalin and Propaganda</summary>
 <br>
-**What forms of propaganda did Stalin use**?
+
+*What forms of propaganda did Stalin use?*
 
 Soviet **propaganda** under **Stalin** was dominated by socialist realism, a particular **form of propaganda** disguised as art that glorified the Soviet state and party, its workers, and depicted scenes from everyday life.
 
