@@ -252,14 +252,6 @@ Only talking about specific army games and their ideology.
 
 
 ### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
 
 ## Transcoding No. 2
 ### Description
@@ -270,14 +262,6 @@ Second transcoding, a low poly rocket, which resembles a rocket from the arms ra
 <img src="Documentation/img/Rocket3.png" width="100%">
 
 ### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
 
 
 ### Tools
@@ -293,19 +277,19 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 My transcoding tool was Blender, to make useable models and Unity to compile the models into one environment.
 
 Progress of starting to learn Unity.
-<img src="Documentation/img/FirstGame.png" width="100%">
-<img src="Documentation/img/FirstGame2.png" width="100%">
-<img src="Documentation/img/SecondGame.png" width="100%">
-<img src="Documentation/img/SecondGame2.png" width="100%">
-<img src="Documentation/img/SecondGame3.png" width="100%">
+<img src="Documentation/img/FirstGame.png" width="50%">
+<img src="Documentation/img/FirstGame2.png" width="50%">
+<img src="Documentation/img/SecondGame.png" width="50%">
+<img src="Documentation/img/SecondGame2.png" width="50%">
+<img src="Documentation/img/SecondGame3.png" width="50%">
 
 Progress of scripting with Visual Studio in C# language.
-<img src="Documentation/img/VisualStudio.png" width="100%">
-<img src="Documentation/img/VisualStudio2.png" width="100%">
-<img src="Documentation/img/VisualStudio3.png" width="100%">
-<img src="Documentation/img/VisualStudio4.png" width="100%">
-<img src="Documentation/img/VisualStudio5.png" width="100%">
-<img src="Documentation/img/VisualStudio6.png" width="100%">
+<img src="Documentation/img/VisualStudio.png" width="50%">
+<img src="Documentation/img/VisualStudio2.png" width="50%">
+<img src="Documentation/img/VisualStudio3.png" width="50%">
+<img src="Documentation/img/VisualStudio4.png" width="50%">
+<img src="Documentation/img/VisualStudio5.png" width="50%">
+<img src="Documentation/img/VisualStudio6.png" width="50%">
 
 VideoTests:
 1
