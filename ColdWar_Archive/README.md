@@ -276,14 +276,14 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 ### Description
 My transcoding tool was Blender, to make useable models and Unity to compile the models into one environment.
 
-Progress of starting to learn Unity.
+Progress of starting to learn Unity. <br>
 <img src="Documentation/img/FirstGame.png" width="50%">
 <img src="Documentation/img/FirstGame2.png" width="50%">
 <img src="Documentation/img/SecondGame.png" width="50%">
 <img src="Documentation/img/SecondGame2.png" width="50%">
 <img src="Documentation/img/SecondGame3.png" width="50%">
 
-Progress of scripting with Visual Studio in C# language.
+Progress of scripting with Visual Studio in C# language. <br>
 <img src="Documentation/img/VisualStudio.png" width="50%">
 <img src="Documentation/img/VisualStudio2.png" width="50%">
 <img src="Documentation/img/VisualStudio3.png" width="50%">
