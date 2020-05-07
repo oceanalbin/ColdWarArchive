@@ -314,11 +314,11 @@ When you walk into an object the next level activates
 <br>
 
 VideoTests:
-1
+First Game
 <img src="Documentation/video/First.gif" width="100%">
-2
+Second Game
 <img src="Documentation/video/First2.gif" width="100%">
-
+Terrain creation, learning to put objects in environment and controlling a player.
 
 ### Aims
 The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combing them into one world to see how they function together.
