@@ -236,11 +236,10 @@ The Cold War was a period of geopolitical tension between the Soviet Union and t
 
 
 # Transcoding
-I started my transcoding with a mindmap regarding the tensions between the Eastern and Western fronts. See image
-My transcoding process was a bit unusual, I started from a Bingo artefact from the International Organisation of Good Templars, in this bingo game I found out that the IOGT used this bingo game as a leverage on their followers giving them an extra cash income + more gatherings of their followers. Unfortunately the object itself was not worth transcoding/basing my whole project on. From this point on I had quite a intensive research in the manifestation of propaganda in video games, which I was deeply interested in. After this I deepened my research into propaganda and arrived at propaganda during wartime and eventually the Cold War, which sprouted with propaganda. Now to start looking for a whole new artefact and topic would be a pity... I had the topic and idea to make a game about the Cold War, so I started looking for artefacts regarding the Cold War.
+I started my transcoding with a mindmap regarding the tensions between the Eastern and Western fronts. My transcoding process was a bit unusual, I started from a Bingo artefact from the International Organisation of Good Templars, in this bingo game I found out that the IOGT used this bingo game as a leverage on their followers giving them an extra cash income + more gatherings of their followers. Unfortunately the object itself was not worth transcoding/basing my whole project on. From this point on I had quite a intensive research in the manifestation of propaganda in video games, which I was deeply interested in. After this I deepened my research into propaganda and arrived at propaganda during wartime and eventually the Cold War, which sprouted with propaganda. Now to start looking for a whole new artefact and topic would be a pity... I had the topic and idea to make a game about the Cold War, so I started looking for artefacts regarding the Cold War.
 
 ## Transcoding No. 1
-### Description
+### Mindmap
 First transcoding, to get the ball rolling. A mindmap about America's current state of affairs in the gaming branch with ties to propaganda. This is from my research about propaganda in videogames, focussed on Americas military recruitment tools.
 <img src="Documentation/img/USA.jpg" width="100%">
 
@@ -255,7 +254,7 @@ Only talking about specific army games and their ideology.
 ### Methods
 
 ## Transcoding No. 2
-### Description
+### Modelling
 Second transcoding, a low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
 
 <img src="Documentation/img/Rocket1.png" width="100%">
@@ -274,23 +273,45 @@ To make a videogame I used Unity for the visual creating and Visual Studio to co
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
 
 ## Transcoding Tool
-### Description
-My transcoding tool was Blender, to make useable models and Unity to compile the models into one environment.
+### Unity and Visual Studio
+My transcoding tool is Blender, to make useable models and Unity to compile the models into one environment.
 
 Progress of starting to learn Unity. <br>
+Racing game<br>
 <img src="Documentation/img/FirstGame.png" width="50%">
 <img src="Documentation/img/FirstGame2.png" width="50%">
+<br>
+Learning to put a controllable character in + visual effects
+<br>
 <img src="Documentation/img/SecondGame.png" width="50%">
 <img src="Documentation/img/SecondGame2.png" width="50%">
 <img src="Documentation/img/SecondGame3.png" width="50%">
 
 Progress of scripting with Visual Studio in C# language. <br>
 <img src="Documentation/img/VisualStudio.png" width="50%">
+<br>
+For moving the Cube.
+<br>
 <img src="Documentation/img/VisualStudio2.png" width="50%">
 <img src="Documentation/img/VisualStudio3.png" width="50%">
+<br>
+When Cube hits Object start over.
+<br>
 <img src="Documentation/img/VisualStudio4.png" width="50%">
+<br>
+Score adds up when the player progresses.
+<br>
 <img src="Documentation/img/VisualStudio5.png" width="50%">
+<br>
+Give game over message and restart game.
+<br>
+<br>
+Second Game
+<br>
 <img src="Documentation/img/VisualStudio6.png" width="50%">
+<br>
+When you walk into an object the next level activates
+<br>
 
 VideoTests:
 1
