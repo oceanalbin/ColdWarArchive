@@ -258,8 +258,8 @@ Only talking about specific army games and their ideology.
 Second transcoding, a low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
 
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket1.png" width="100%">
-<img src="Documentation/img/Rocket2.png" width="100%">
-<img src="Documentation/img/Rocket3.png" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket2.png" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%">
 
 ### Methods
 
