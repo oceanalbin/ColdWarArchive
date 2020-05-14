@@ -151,10 +151,8 @@ Entrypoints for research:
   <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.58.54.png" width="50%">
 </details>
 
-
-<h2>Propaganda in video games</h2>
 <details>
-<summary>Video games and Streamers</summary>
+<summary>Video games and Propaganda</summary>
 <br>
 
 Jamil Jan Kochai tells how all of his life he is forced by big shooter games to see his own nation as terrorists. In the game the metal gear solid which is set in afghanistan he goes in game to the place he used to live and finds his father and brother. This podcast kickstarted my research into propaganda in video games.
