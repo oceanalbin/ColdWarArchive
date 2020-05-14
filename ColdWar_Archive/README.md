@@ -1,6 +1,5 @@
-[<img src="https://raw.githubusercontent.com/oceanalbin/ColdWarArchive/raw/master/ColdWar_Archive/Documentation/img/TheColdRace.png" width="100%">](#)
+[<img src="https://raw.githubusercontent.com/oceanalbin/ColdWarArchive/ColdWar_Archive/Documentation/img/TheColdRace.png" width="100%">](#)
 # The Cold Race
-
 
 ### Table of Contents
 1. [Artefacts of the Cold War](#Artefact)
