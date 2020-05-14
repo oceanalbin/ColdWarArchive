@@ -59,8 +59,8 @@ Entrypoints for research:
   > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
 
 
-  <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="25%">
-    Bingo as a teaching tool.
+  <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="25%">
+  <br>  Bingo as a teaching tool.
 
   > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
 
@@ -90,7 +90,7 @@ Entrypoints for research:
 
   [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
 
-  <img src="Documentation/img/Screen_Shot_2020-03-02_at_11.58.54.png" width="50%">
+  <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.58.54.png" width="50%">
 </details>
 
 
@@ -135,11 +135,11 @@ Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein
     Some streamers have huge fanbases, whom watch their livestreams, most streamers try not to be political, but this platform could be a perfect way to distribute propaganda.
     Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
 
-    <img src="Documentation/img/C9spQFDXcAAXPRP.jpg" width="50%">
+    <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/C9spQFDXcAAXPRP.jpg" width="50%">
 
-    <img src="Documentation/img/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg" width="50%">  
+    <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg" width="50%">  
 
-    <img src="Documentation/img/download.jpeg" width="50%">
+    <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/download.jpeg" width="50%">
 
 John rafman codes of horror
 [https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
@@ -154,7 +154,7 @@ John rafman codes of horror
 <summary>New Artefact — Boardgame with possible ties to propaganda</summary>
 <br>
 
-<img src="Documentation/img/Screen_Shot_2020-03-16_at_09.07.36.png" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-16_at_09.07.36.png" width="100%">
 
 MetaData:
 Stavime Stalinuv Pomnik
@@ -171,7 +171,7 @@ Caricature
 
 Czechoslovakia
 
-<img src="Documentation/img/StalinBoard.jpg" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/StalinBoard.jpg" width="50%">
 
 What do I see in the picture?
 
@@ -189,7 +189,7 @@ Full glass of beer, filled with hammers & sickles
 
 A judge? with a loop? under it a hammer & sickles
 
-Someone voting, looks like he isnt there on freewill
+Someone voting, looks like he isn't there on freewill
 
 Stalin, with a commander and soldiers? Background Clouds filled with stars.
 
@@ -241,7 +241,7 @@ I started my transcoding with a mindmap regarding the tensions between the Easte
 ## Transcoding No. 1
 ### Mindmap
 First transcoding, to get the ball rolling. A mindmap about America's current state of affairs in the gaming branch with ties to propaganda. This is from my research about propaganda in videogames, focussed on Americas military recruitment tools.
-<img src="Documentation/img/USA.jpg" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/USA.jpg" width="100%">
 
 
 Using C# Unity – Huge Abstract Boardgames
@@ -277,46 +277,46 @@ My transcoding tool is Blender, to make useable models and Unity to compile the 
 
 Progress of starting to learn Unity. <br>
 Racing game<br>
-<img src="Documentation/img/FirstGame.png" width="50%">
-<img src="Documentation/img/FirstGame2.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame2.png" width="50%">
 <br>
 Learning to put a controllable character in + visual effects
 <br>
-<img src="Documentation/img/SecondGame.png" width="50%">
-<img src="Documentation/img/SecondGame2.png" width="50%">
-<img src="Documentation/img/SecondGame3.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame2.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame3.png" width="50%">
 
 Progress of scripting with Visual Studio in C# language. <br>
-<img src="Documentation/img/VisualStudio.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio.png" width="50%">
 <br>
 For moving the Cube.
 <br>
-<img src="Documentation/img/VisualStudio2.png" width="50%">
-<img src="Documentation/img/VisualStudio3.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio2.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio3.png" width="50%">
 <br>
 When Cube hits Object start over.
 <br>
-<img src="Documentation/img/VisualStudio4.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio4.png.png" width="50%">
 <br>
 Score adds up when the player progresses.
 <br>
-<img src="Documentation/img/VisualStudio5.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio5.png" width="50%">
 <br>
 Give game over message and restart game.
 <br>
 <br>
 Second Game
 <br>
-<img src="Documentation/img/VisualStudio6.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio6.png" width="50%">
 <br>
 When you walk into an object the next level activates
 <br>
 
 VideoTests:
 First Game
-<img src="Documentation/video/First.gif" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First.gif" width="100%">
 Second Game
-<img src="Documentation/video/First2.gif" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First2.gif" width="100%">
 Terrain creation, learning to put objects in environment and controlling a player.
 <br>
 
@@ -329,24 +329,24 @@ Terrain creation, learning to put objects in environment and controlling a playe
 
 Topics from the first part of the Cold War to use in the game and look for in the IISG:
 1. NATO, artefacts about the Nato<br>
-<img src="Documentation/img/Nato.png" width="50%"><br>
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Nato.png" width="50%"><br>
 2. Artefacts about the Warsaw Impact<br><br>
-<img src="Documentation/img/USSr.png" width="50%">
-<img src="Documentation/img/Ussr2.png" width="50%"><br>
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/USSr.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Ussr2.png" width="50%"><br>
 3. Space Race<br>
 4. Arms Race<br>
 
 <br>
 Filling environment with propaganda objects:<br>
 Posters will be flying around. ("the over the top distribution of propaganda/anti propaganda leaflets")<br>
-<img src="Documentation/img/Leaf.png" width="50%">
-<img src="Documentation/img/Leaf2.png" width="50%">
-<img src="Documentation/img/Leaf3.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Leaf.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Leaf2.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Leaf3.png" width="50%">
 <br><br>
 3D sculpts of Eppo's and Opland's drawings will be collectables.<br>
-<img src="Documentation/img/Eppo.png" width="50%">
-<img src="Documentation/img/Eppo2.png" width="50%">
-<img src="Documentation/img/Opland.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Eppo.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Eppo2.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Opland.png" width="50%">
 
 <br>
 Environment:<br>
