@@ -36,7 +36,7 @@ Now I was getting excited, I learned a lot of historical facts which I either ha
 
 | Artefact |  
 |--|
-|<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F479&size=small&title=Ongewoon+vriendelijk+%3A+Diplomaten-receptie+in+Moskou.&oclc=943880379&pid=30051002324710&publication=pictoright" width="50%"> <br>
+|[<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F479&size=small&title=Ongewoon+vriendelijk+%3A+Diplomaten-receptie+in+Moskou.&oclc=943880379&pid=30051002324710&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/1245270) <br>
 Ongewoon vriendelijk : Diplomaten-receptie in Moskou. Doeve, Eppo|
 |<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+E36%2F519&size=small&title=Moskou%27s+geheime+wapen.&oclc=943862837&pid=30051002275532&publication=pictoright" width="50%"> <br>
 Moskou's geheime wapen. Doeve, Eppo|
