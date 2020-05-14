@@ -15,7 +15,7 @@
 7. [Bibliography](#Bibliography)
 
 # Artefacts of the Cold War
-A collection of =/- 10 artefacts collected by me, which are focussed on the tensions between the Eastern and Western fronts during memorable/important moments in the Cold War. These artefacts vary from posters to drawings to images.
+A collection 5 artefacts focussed on the tensions between the Eastern and Western fronts during important moments in the Cold War. These artefacts vary from posters to drawings to images.
 
 ## Metadata
 | Tag | Data |  
@@ -296,7 +296,7 @@ For moving the Cube.
 <br>
 When Cube hits Object start over.
 <br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio4.png.png" width="50%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio4.png" width="50%">
 <br>
 Score adds up when the player progresses.
 <br>
