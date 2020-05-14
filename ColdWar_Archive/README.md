@@ -96,12 +96,15 @@ Alternative showcase of project:
 </details>
 
 ### Research on Games
-Entrypoints for research:
+<details>
+<summary>Entrypoints for research</summary>
+
 - Gaming as a connection with others (bindingsmiddel)
 - Gaming as an addiction
 - Useless hobby? Or ways to comprehend the real world/trauma
 - Gaming as a way to spread your ideals/propaganda
 -  Desperate to escape the unrelenting nature of a corporial existence
+</details>
 
 <details>
 <summary>What is Bingo?</summary>
