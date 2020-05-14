@@ -257,12 +257,11 @@ Only talking about specific army games and their ideology.
 ### Modelling
 Second transcoding, a low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
 
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket1.png" width="100%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket2.png" width="100%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%">
+<img src="https://raw.githubusercontent.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket1.png" width="100%">
+<img src="https://raw.githubusercontent.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket2.png" width="100%">
+<img src="https://raw.githubusercontent.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%">
 
 ### Methods
-
 
 ### Tools
 The tools that I have used for this projects are TextEdit programs, to format and write HTML, CSS and JS. For the transcodings I used photoshop, to make sketches and Blender to model and texture props for my videogame.
