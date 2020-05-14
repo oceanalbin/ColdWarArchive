@@ -6,9 +6,10 @@
     1. [Metadata](#Metadata)
 2. [General Research](#General-Research)
 3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding No. 2](#Transcoding-no-2)
-    3. [Transcoding Tool](#Transcoding-tool)
+    1. [Digital Collage](#Transcoding-no-1)
+    2. [Modelling](#Transcoding-no-2)
+    3. [Sculpting](#Transcoding-no-3)
+    4. [Transcoding Tool](#Transcoding-tool)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
@@ -319,6 +320,16 @@ Second transcoding, a low poly rocket, which resembles a rocket from the arms ra
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%">
 
 ### Methods
+
+## Transcoding No. 3
+### Sculpting
+Third transcoding, digital sculpts made in Oculus Medium, with a Oculus VR headset. The sculpts are interpretations of my 5 artefacts I chose from the archive.
+
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt1.png" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt2.png" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt3.png" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt4.png" width="100%">
+<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt5.png" width="100%">
 
 ### Tools
 The tools that I have used for this projects are TextEdit programs, to format and write HTML, CSS and JS. For the transcodings I used photoshop, to make sketches and Blender to model and texture props for my videogame.
