@@ -2,7 +2,7 @@
 # The Cold Race
 
 ### Table of Contents
-1. [Artefacts of the Cold War](#Artefact)
+1. [Artefacts of the Cold War](#Artefacts of the Cold War)
     1. [Metadata](#Metadata)
 2. [Research](#Research-h1)
 3. [Transcoding](#Transcoding)
