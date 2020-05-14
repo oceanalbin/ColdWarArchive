@@ -309,8 +309,6 @@ Archiving a war experience—> Be a hero within this history
 Only talking about specific army games and their ideology.
 
 
-### Methods
-
 ## Transcoding No. 2
 ### Modelling
 Second transcoding, a low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
@@ -319,7 +317,6 @@ Second transcoding, a low poly rocket, which resembles a rocket from the arms ra
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket2.png" width="100%">
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%">
 
-### Methods
 
 ## Transcoding No. 3
 ### Sculpting
@@ -332,7 +329,7 @@ Third transcoding, digital sculpts made in Oculus Medium, with a Oculus VR heads
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt5.png" width="100%">
 
 ### Tools
-The tools that I have used for this projects are TextEdit programs, to format and write HTML, CSS and JS. For the transcodings I used photoshop, to make sketches and Blender to model and texture props for my videogame.
+The tools that I have used for this projects are TextEdit programs, to format and write HTML, CSS and JS. For the transcodings I used photoshop, to make sketches. I used Blender and Oculus Medium to model and texture props for my videogame.
 To make a videogame I used Unity for the visual creating and Visual Studio to code and format my C#.
 
 
