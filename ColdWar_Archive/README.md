@@ -7,7 +7,7 @@
 2. [General Research](#General-Research)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding No. 2](#Transcoding-no-1)
+    2. [Transcoding No. 2](#Transcoding-no-2)
     3. [Transcoding Tool](#Transcoding-tool)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
@@ -399,7 +399,7 @@ https://www.youtube.com/watch?v=VbZ9_C4-Qbo&list=PLsdG5n9AbYWPh7-UFkBcXeq7BUHRnT
 # Reflection
 During this process I focussed a lot on the research and conceptual part of this project instead of focussing purely on the visual side, which is my 'normal' way of working, therefor I challenged myself and ran into problems which I have not encountered so far in my studies, which at times could be quite annoying, but also motivating.
 
-# Outcomes
+# Outcome
 The outcome of this transcoding and toolmaking assignment is a game made in Unity, formatted with C#, filled with artefacts from the IISG library regarding the topics of the Cold War. This game will take you through encounters to gain additional insights, which are not shown in the metadata in the collections from the IISG.
 
 ### Outcome Links
