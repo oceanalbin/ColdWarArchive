@@ -4,7 +4,7 @@
 ### Table of Contents
 1. [Artefacts of the Cold War](#Artefacts-of-the-Cold-War)
     1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
+2. [General Research](#General-Research)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding No. 2](#Transcoding-no-1)
@@ -29,7 +29,7 @@ A collection 5 artefacts focussed on the tensions between the Eastern and Wester
 | **Note** | Het kienspel bestaat uit twee kisten.
 |![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+X1%2F39&size=small&title=%5BObject.%5D+International+Organisation+of+Good+Templars.&pid=30051001577466&publication=pictoright)| Box from wood; 67x61 cm; 34x50 cm With metal handles and a lock system a label on top: "120 Kaarten 90 Schijven LOGE Plaats voor Allen Nr 61 (Place for all) In Haarlem".
 
-# General Research
+### General Research
 My original artefact was a 'Kienspel' (Dutch for a boardgame, similar to Bingo), from the International Organisation of Good Templars, whose international body is known as Movendi International, is a fraternal organization which is part of the temperance movement, promoting abstinence from alcohol and other drugs. While I was getting more information on the IOGT I found out that they used this boardgame to gain extra cash income for their organisation and also used as an tool to gather and force their followers to meet more often, since it is a gambling game, people are more likely to come more often to play. While I was looking at the history of games I found interesting articles about how a lot of governments use games as propaganda and as a tool for recruitment. I figured I was not so interested in the actual movement of IOGT, but rather their use a of a game as a tool for propaganda, so I continued my research and found articles about how the Soviet Union, under Stalin's power used socialist realism, a particular form of propaganda disguised as art that glorified the Soviet state and party, its workers, and depicted scenes from everyday life.
 
 Now I was getting excited, I learned a lot of historical facts which I either had forgotten or never learned, but my research did not end here, because again I found a new entry point, which has a lot of propaganda and power struggles, because I wanted my video game to have a more global view, a good topic to show propaganda from 'both' sides of the world: The Cold War. I focussed my research on the first part of the Cold War; on the NATO and Warsaw Pact, the Space Race and the Arms Race.
@@ -94,7 +94,7 @@ Alternative showcase of project:
 
 </details>
 
-## Research on Games
+#### Research on Games
 Entrypoints for research:
 - Gaming as a connection with others (bindingsmiddel)
 - Gaming as an addiction
@@ -205,7 +205,7 @@ John rafman codes of horror
 
 
 
-### Research on Russia and propaganda
+##### Research on Russia and propaganda
 
 <details>
 <summary>New Artefact — Boardgame with possible ties to propaganda</summary>
