@@ -29,9 +29,11 @@ A collection 5 artefacts focussed on the tensions between the Eastern and Wester
 | **Note** | Het kienspel bestaat uit twee kisten.
 |![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+X1%2F39&size=small&title=%5BObject.%5D+International+Organisation+of+Good+Templars.&pid=30051001577466&publication=pictoright)| Box from wood; 67x61 cm; 34x50 cm With metal handles and a lock system a label on top: "120 Kaarten 90 Schijven LOGE Plaats voor Allen Nr 61 (Place for all) In Haarlem".
 
-| Artefact | Data |  
-|--|--|
-|<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F479&size=small&title=Ongewoon+vriendelijk+%3A+Diplomaten-receptie+in+Moskou.&oclc=943880379&pid=30051002324710&publication=pictoright" width="50%">| Ongewoon vriendelijk : Diplomaten-receptie in Moskou. Doeve, Eppo |
+| Artefact |  
+|--|
+|<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F479&size=small&title=Ongewoon+vriendelijk+%3A+Diplomaten-receptie+in+Moskou.&oclc=943880379&pid=30051002324710&publication=pictoright" width="50%"> <br>
+Ongewoon vriendelijk : Diplomaten-receptie in Moskou. Doeve, Eppo|
+
 |<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+E36%2F519&size=small&title=Moskou%27s+geheime+wapen.&oclc=943862837&pid=30051002275532&publication=pictoright" width="50%">| Moskou's geheime wapen. Doeve, Eppo |
 |<img src="https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+C18%2F239&size=small&title=Stalin%3A+%22Hm%2C+de+gijn+is+er+af%22&oclc=943890718&pid=30051002349865&publication=pictoright" width="50%">| Stalin: "Hm, de gijn is er af". Opland |
 |<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F592&size=small&title=Voorjaar+1950+%3A+%22De+vijf+vlyghen%22&oclc=943882721&pid=30051002327614&publication=pictoright" width="50%">| Drawing Nikita Sergeevič Chruščev, John Fitzgerald Kennedy. Metz, Lex|
