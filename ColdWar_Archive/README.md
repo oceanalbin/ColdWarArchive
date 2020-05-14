@@ -95,7 +95,7 @@ Alternative showcase of project:
 
 </details>
 
-#### Research on Games
+### Research on Games
 Entrypoints for research:
 - Gaming as a connection with others (bindingsmiddel)
 - Gaming as an addiction
@@ -206,7 +206,7 @@ John rafman codes of horror
 
 
 
-##### Research on Russia and propaganda
+### Research on Russia and propaganda
 
 <details>
 <summary>New Artefact — Boardgame with possible ties to propaganda</summary>
