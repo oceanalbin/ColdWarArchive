@@ -36,24 +36,13 @@ My original artefact was a 'Kienspel' (Dutch for a boardgame, similar to Bingo),
 Now I was getting excited, I learned a lot of historical facts which I either had forgotten or never learned, but my research did not end here, because again I found a new entry point, which has a lot of propaganda and power struggles, because I wanted my video game to have a more global view, a good topic to show propaganda from 'both' sides of the world: The Cold War. I focussed my research on the first part of the Cold War; on the NATO and Warsaw Pact, the Space Race and the Arms Race.
 
 
-| Tag | Data |  
-|--|--|
-**IISG Call Number** | [IISG BG X1/39](https://search.iisg.amsterdam/Record/1069677)
-| **Physical Description** | Wood; 67x61cm; 34x50 cm.
-| **Type** | Object
-| **Medium** | Box
-| **Materials** | Wood, Cardboard, Chalk, Steel
-| **Date** | 1900-1909
-| **Note** | Het kienspel bestaat uit twee kisten.
-
-
 | Artefact |  Data |
 |--|--|
 | [<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F479&size=small&title=Ongewoon+vriendelijk+%3A+Diplomaten-receptie+in+Moskou.&oclc=943880379&pid=30051002324710&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/1245270) | Ongewoon vriendelijk : Diplomaten-receptie in Moskou.<br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
-| <img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+E36%2F519&size=small&title=Moskou%27s+geheime+wapen.&oclc=943862837&pid=30051002275532&publication=pictoright" width="50%"> | Moskou's geheime wapen. <br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
-| <img src="https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+C18%2F239&size=small&title=Stalin%3A+%22Hm%2C+de+gijn+is+er+af%22&oclc=943890718&pid=30051002349865&publication=pictoright" width="50%"> | Stalin: "Hm, de gijn is er af". <br> [Opland](https://nl.wikipedia.org/wiki/Opland)
-| <img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F592&size=small&title=Voorjaar+1950+%3A+%22De+vijf+vlyghen%22&oclc=943882721&pid=30051002327614&publication=pictoright" width="50%"> | Drawing Nikita Sergeevič Chruščev, John Fitzgerald Kennedy. <br> Metz, Lex
-| <img src="https://search.iisg.amsterdam/Cover/Show?author=Metz%2C+Lex&callnumber=BG+PM2%2F15-139&size=small&title=Drawing+Nikita+Sergeevi%C4%8D+Chru%C5%A1%C4%8Dev%2C+John+Fitzgerald+Kennedy&oclc=982970835&pid=30051003025415&publication=pictoright" width="50%"> | Voorjaar 1950 : "De vijf vlyghen". <br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
+| [<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+E36%2F519&size=small&title=Moskou%27s+geheime+wapen.&oclc=943862837&pid=30051002275532&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/1213607) | Moskou's geheime wapen. <br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
+| [<img src="https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+C18%2F239&size=small&title=Stalin%3A+%22Hm%2C+de+gijn+is+er+af%22&oclc=943890718&pid=30051002349865&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/1268982) | Stalin: "Hm, de gijn is er af". <br> [Opland](https://nl.wikipedia.org/wiki/Opland)
+| [<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F592&size=small&title=Voorjaar+1950+%3A+%22De+vijf+vlyghen%22&oclc=943882721&pid=30051002327614&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/730697) | Drawing Nikita Sergeevič Chruščev, John Fitzgerald Kennedy. <br> [Metz, Lex](https://nl.wikipedia.org/wiki/Lex_Metz)
+| [<img src="https://search.iisg.amsterdam/Cover/Show?author=Metz%2C+Lex&callnumber=BG+PM2%2F15-139&size=small&title=Drawing+Nikita+Sergeevi%C4%8D+Chru%C5%A1%C4%8Dev%2C+John+Fitzgerald+Kennedy&oclc=982970835&pid=30051003025415&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/1251908) | Voorjaar 1950 : "De vijf vlyghen". <br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
 
 <details>
 <summary>The Cold Race Concept</summary>
