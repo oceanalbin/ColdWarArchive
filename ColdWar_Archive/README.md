@@ -324,36 +324,9 @@ Learning to put a controllable character in + visual effects
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame2.png" width="50%">
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame3.png" width="50%">
 
-Progress of scripting with Visual Studio in C# language. <br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio.png" width="50%">
-<br>
-For moving the Cube.
-<br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio2.png" width="50%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio3.png" width="50%">
-<br>
-When Cube hits Object start over.
-<br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio4.png" width="50%">
-<br>
-Score adds up when the player progresses.
-<br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio5.png" width="50%">
-<br>
-Give game over message and restart game.
-<br>
-<br>
-Second Game
-<br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/VisualStudio6.png" width="50%">
-<br>
-When you walk into an object the next level activates
-<br>
-
 VideoTests:
-First Game
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First.gif" width="100%">
-Second Game
+<br>
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First2.gif" width="100%">
 Terrain creation, learning to put objects in environment and controlling a player.
 <br>
@@ -415,3 +388,9 @@ During this project I learned how to work with a rather hard to research archive
 [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
   [Bingo (American version)](https://en.wikipedia.org/wiki/Bingo_(American_version))
+
+[Eppo Doeve](https://nl.wikipedia.org/wiki/Eppo_Doeve)
+
+[Lex Metz](https://nl.wikipedia.org/wiki/Lex_Metz)
+
+[Opland](https://nl.wikipedia.org/wiki/Opland)
