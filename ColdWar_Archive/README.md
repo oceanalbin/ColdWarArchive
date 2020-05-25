@@ -1,4 +1,4 @@
-[<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Cold_Racy2.png" width="100%">](#)
+[<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Cold_Racy3.png" width="100%">](#)
 # The Cold Race
 
 ### Table of Contents
@@ -76,23 +76,6 @@ Posters will be flying around. ("the over the top distribution of propaganda/ant
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Eppo2.png" width="50%">
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Opland.png" width="50%">
 
-<br>
-Environment:<br>
-- Checkerboard ground <br>
-- Monopoly elements<br>
-<br>
-Sound (to experience a treatening war experience): <br>
-- Timer counting down(nuke). <br>
-- Planes flying over
-
-<br><br>
-
-Alternative showcase of project:
-- Video of the gameplay <br>
-- Link to a website, to play the game in browser with WebGL
-<br>
-
-
 </details>
 
 ### Research on Games
@@ -140,8 +123,6 @@ Alternative showcase of project:
   There are multiple purposes of Bingo, but my guess at the purpose of Bingo within the IOoGT is to create a cash flow income to help them spread their message in a better way. Also to create a community, a reason to get together to form a group, so a method of bonding between ints followers.
 
   ## Intersting specifications in Bingo/Games:
-
-  Patterns & RNG
 
   [RNG or random number generator: the reality about luck in video games](https://aldelaro5.wordpress.com/2016/05/16/rng-or-random-number-generator-the-reality-about-luck-in-video-games/)
 
@@ -200,8 +181,6 @@ Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein
 
     <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/download.jpeg" width="50%">
 
-John rafman codes of horror
-[https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
 
 </details>
 
@@ -305,7 +284,7 @@ First transcoding, to get the ball rolling. A mindmap about America's current st
 
 Using C# Unity – Huge Abstract Boardgames
 Different ideologies
-A tool to analise other games use of Propaganda
+A tool to analyse other games use of Propaganda
 Archiving a war experience—> Be a hero within this history
 Only talking about specific army games and their ideology.
 
@@ -333,13 +312,10 @@ Third transcoding, digital sculpts made in Oculus Medium, with a Oculus VR heads
 The tools that I have used for this projects are TextEdit programs, to format and write HTML, CSS and JS. For the transcodings I used photoshop, to make sketches. I used Blender and Oculus Medium to model and texture props for my videogame.
 To make a videogame I used Unity for the visual creating and Visual Studio to code and format my C#.
 
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
-
 ## Transcoding Tool
 ### Unity and Visual Studio
-My transcoding tool is Blender, to make useable models and Unity to compile the models into one environment.
+My original idea was to use Blender as my transcoding tool, quite soon already I ditched Blender for the Oculus Medium to make 3D sculpted models for my game, while texturing done in Cinema4d. Unity was used to compile all the models together and make a environment to, Visual Studio was used to code all the actions in the game.
+<br>
 
 Progress of starting to learn Unity. <br>
 Racing game<br>
@@ -389,10 +365,10 @@ Terrain creation, learning to put objects in environment and controlling a playe
 
 
 ### Aims
-The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combing them into one world to see how they function together.
+The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combing them into one world. To create a new story, one where you, the player can find all the hidden Propaganda and Anti Propaganda.
 
 ### Methods
-C# — WebGL — HTML — CSS — JS
+C# — HTML — CSS — JS
 
 ### Results
 My result is combining my transcoded models into a video game about the Cold War.
@@ -406,10 +382,10 @@ https://www.youtube.com/watch?v=DLgDGUgUeX0&list=PL-9tAEcwCavo82iPBt3gh06Z8g53VW
 https://www.youtube.com/watch?v=VbZ9_C4-Qbo&list=PLsdG5n9AbYWPh7-UFkBcXeq7BUHRnT0v9&index=5&t=0s
 
 # Reflection
-During this process I focussed a lot on the research and conceptual part of this project instead of focussing purely on the visual side, which is my 'normal' way of working, therefor I challenged myself and ran into problems which I have not encountered so far in my studies, which at times could be quite annoying, but also motivating.
+During this process I focussed a lot on the research and conceptual part of this project instead of focussing purely on the visual side, which is my 'normal' way of working, therefor I challenged myself and ran into problems which I have not encountered so far in my studies, at times those could be quite annoying, but also motivating.
 
 # Outcome
-The outcome of this transcoding and toolmaking assignment is a game made in Unity, formatted with C#, filled with artefacts from the IISG library regarding the topics of the Cold War. This game will take you through encounters to gain additional insights, which are not shown in the metadata in the collections from the IISG.
+The outcome of this transcoding and toolmaking assignment is a game made in Unity, formatted with C#, filled with artefacts from the IISG library regarding the topics of the Cold War. This game will take you through encounters to gain additional insights and make new connections, which are not shown in the metadata in the collections from the IISG.
 
 ### Outcome Links
 
@@ -424,6 +400,24 @@ The outcome of this transcoding and toolmaking assignment is a game made in Unit
 During this project I learned how to work with a rather hard to research archive, from the IISG. Learned new software; Blender, to make models of the artefacts. Unity, combined with Visual Studio to make a video game. I found out that making a proper functioning video game is quite a tedious and time consuming thing, but also a rewarding experience.
 
 ## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work.
+[Stalin's lifehacks: How to ruthlessly take power and get away with it](https://www.rbth.com/history/330225-joseph-stalin-rise-power-politics)
 
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
+[Stalin rubble throws into focus Czechs' 20th-century struggles](https://www.theguardian.com/world/2018/sep/30/stalin-rubble-throws-into-focus-czechs-20th-century-struggles)
+
+[List of statues of Stalin](https://en.wikipedia.org/wiki/List_of_statues_of_Stalin)
+
+[Propaganda in the Soviet Union](https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union)
+
+[Propaganda through media](https://en.wikipedia.org/wiki/Propaganda_through_media)
+
+[How was propaganda used in World War One?](https://www.bbc.co.uk/bitesize/topics/zqhyb9q/articles/zhw3jhv)
+
+[Visual Essay: The Impact of Propaganda](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-6/visual-essay-impact-propaganda)
+
+[Joseph Stalin & Soviet Propaganda: Techniques & Examples - Video & Lesson Transcript | Study.com](https://study.com/academy/lesson/joseph-stalin-soviet-propaganda-techniques-examples.html)
+
+[Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
+
+  [Bingo (American version)](https://en.wikipedia.org/wiki/Bingo_(American_version))
+
+  
