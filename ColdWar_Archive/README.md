@@ -412,9 +412,11 @@ During this process I focussed a lot on the research and conceptual part of this
 The outcome of this transcoding and toolmaking assignment is a game made in Unity, formatted with C#, filled with artefacts from the IISG library regarding the topics of the Cold War. This game will take you through encounters to gain additional insights, which are not shown in the metadata in the collections from the IISG.
 
 ### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
 
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
+The Cold Race
+[https://vimeo.com/422421031](https://vimeo.com/422421031)
+
+
 
 # Conclusion
 During this project I learned how to work with a rather hard to research archive, from the IISG. Learned new software; Blender, to make models of the artefacts. Unity, combined with Visual Studio to make a video game. I found out that making a proper functioning video game is quite a tedious and time consuming thing, but also a rewarding experience.
