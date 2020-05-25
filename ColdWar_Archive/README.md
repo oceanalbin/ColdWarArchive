@@ -413,7 +413,8 @@ The outcome of this transcoding and toolmaking assignment is a game made in Unit
 
 ### Outcome Links
 
-The Cold Race
+
+[<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SsForVideo.png" width="50%">](https://vimeo.com/422421031)
 [https://vimeo.com/422421031](https://vimeo.com/422421031)
 
 
