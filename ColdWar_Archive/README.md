@@ -289,8 +289,6 @@ Only talking about specific army games and their ideology.
 ### Modelling
 Second transcoding, a low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
 
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket1.png" width="100%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket2.png" width="100%">
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%">
 
 
@@ -314,7 +312,6 @@ My original idea was to use Blender as my transcoding tool, quite soon already I
 <br>
 
 Progress of starting to learn Unity. <br>
-Racing game<br>
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame.png" width="50%">
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame2.png" width="50%">
 <br>
@@ -361,7 +358,7 @@ The outcome of this transcoding and toolmaking assignment is a game made in Unit
 
 [<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SsForVideo.png">](https://vimeo.com/422421031)
 <br>
-[https://vimeo.com/422421031](https://vimeo.com/422421031)
+[Click here to see the final videowork!](https://vimeo.com/422421031)
 
 
 
