@@ -49,11 +49,11 @@ Now I was getting excited, I learned a lot of historical facts which I either ha
 
 | Artefact |  Data |
 |--|--|
-| [<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F479&size=small&title=Ongewoon+vriendelijk+%3A+Diplomaten-receptie+in+Moskou.&oclc=943880379&pid=30051002324710&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/1245270) | Ongewoon vriendelijk : Diplomaten-receptie in Moskou. Doeve, Eppo
-| <img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+E36%2F519&size=small&title=Moskou%27s+geheime+wapen.&oclc=943862837&pid=30051002275532&publication=pictoright" width="50%"> | Moskou's geheime wapen. Doeve, Eppo
-| <img src="https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+C18%2F239&size=small&title=Stalin%3A+%22Hm%2C+de+gijn+is+er+af%22&oclc=943890718&pid=30051002349865&publication=pictoright" width="50%"> | Stalin: "Hm, de gijn is er af". Opland
-| <img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F592&size=small&title=Voorjaar+1950+%3A+%22De+vijf+vlyghen%22&oclc=943882721&pid=30051002327614&publication=pictoright" width="50%"> | Drawing Nikita Sergeevič Chruščev, John Fitzgerald Kennedy. Metz, Lex
-| <img src="https://search.iisg.amsterdam/Cover/Show?author=Metz%2C+Lex&callnumber=BG+PM2%2F15-139&size=small&title=Drawing+Nikita+Sergeevi%C4%8D+Chru%C5%A1%C4%8Dev%2C+John+Fitzgerald+Kennedy&oclc=982970835&pid=30051003025415&publication=pictoright" width="50%"> | Voorjaar 1950 : "De vijf vlyghen". Doeve, Eppo
+| [<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F479&size=small&title=Ongewoon+vriendelijk+%3A+Diplomaten-receptie+in+Moskou.&oclc=943880379&pid=30051002324710&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/1245270) | Ongewoon vriendelijk : Diplomaten-receptie in Moskou.<br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
+| <img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+E36%2F519&size=small&title=Moskou%27s+geheime+wapen.&oclc=943862837&pid=30051002275532&publication=pictoright" width="50%"> | Moskou's geheime wapen. <br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
+| <img src="https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+C18%2F239&size=small&title=Stalin%3A+%22Hm%2C+de+gijn+is+er+af%22&oclc=943890718&pid=30051002349865&publication=pictoright" width="50%"> | Stalin: "Hm, de gijn is er af". <br> [Opland](https://nl.wikipedia.org/wiki/Opland)
+| <img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F592&size=small&title=Voorjaar+1950+%3A+%22De+vijf+vlyghen%22&oclc=943882721&pid=30051002327614&publication=pictoright" width="50%"> | Drawing Nikita Sergeevič Chruščev, John Fitzgerald Kennedy. <br> Metz, Lex
+| <img src="https://search.iisg.amsterdam/Cover/Show?author=Metz%2C+Lex&callnumber=BG+PM2%2F15-139&size=small&title=Drawing+Nikita+Sergeevi%C4%8D+Chru%C5%A1%C4%8Dev%2C+John+Fitzgerald+Kennedy&oclc=982970835&pid=30051003025415&publication=pictoright" width="50%"> | Voorjaar 1950 : "De vijf vlyghen". <br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
 
 <details>
 <summary>The Cold Race Concept</summary>
