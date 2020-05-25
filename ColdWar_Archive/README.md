@@ -1,4 +1,4 @@
-[<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/TheColdRace.png" width="100%">](#)
+[<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Cold_Racy2.png" width="100%">](#)
 # The Cold Race
 
 ### Table of Contents
@@ -26,7 +26,7 @@ A collection of 5 artefacts focussed on the tensions between the Eastern and Wes
 | **Type** | Object
 | **Medium** | Box
 | **Materials** | Wood, Cardboard, Chalk, Steel
-| **Date** | 1900-1904 1905-1909
+| **Date** | 1900-1909
 | **Note** | Het kienspel bestaat uit twee kisten.
 |![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+X1%2F39&size=small&title=%5BObject.%5D+International+Organisation+of+Good+Templars.&pid=30051001577466&publication=pictoright)| Box from wood; 67x61 cm; 34x50 cm With metal handles and a lock system a label on top: "120 Kaarten 90 Schijven LOGE Plaats voor Allen Nr 61 (Place for all) In Haarlem".
 
