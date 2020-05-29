@@ -50,28 +50,30 @@ Now I was getting excited, I learned a lot of historical facts which I either ha
 
 *Collect all the artefacts before the time runs out!* <br><br>
 
-
-Topics from the first part of the Cold War to use in the game and look for in the IISG:
-1. NATO, artefacts about the Nato<br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Nato.png" width="50%"><br>
-2. Artefacts about the Warsaw Impact<br><br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/USSr.png" width="50%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Ussr2.png" width="50%"><br>
-3. Space Race<br>
-4. Arms Race<br>
-
+For the artefacts to use in the game I looked through the IISG for topics of the first part of the Cold war, such as the NATO and Warsaw Pact.
 <br>
-Filling environment with propaganda objects:<br>
-Collect the Anti Propaganda from the chests distributed in the game, each chest contains a piece of information about the artefact.<br>
+Collect the 7 Anti Propaganda artefacts from the chests distributed in the game, each chest contains a piece of information about the artefact.<br>
 
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Leaf.png" width="50%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Leaf2.png" width="50%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Leaf3.png" width="50%">
-<br><br>
-3D sculpts of Eppo's and Opland's drawings will be collectables.<br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Eppo.png" width="50%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Eppo2.png" width="50%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Opland.png" width="50%">
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [BG D80/533](https://search.iisg.amsterdam/Record/1446305)
+| **Author** | Opland
+| **Title** | Cold war-tours
+| **Date** | 1980
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+D80%2F533&size=small&title=Cold+war-tours&oclc=943965742&pid=N30051002989306&publication=pictoright)| 	Molotov, Vjačeslav Michajlovič
+Visjinski, Andrej
+McCarthy, Joseph R
+Dulles, John Foster
+Truman, Harry
+Stalin, Iosif Vissarionovič
+Brežnev, Leonid Ilʼič
+Carter, Jimmy.
+**IISG Call Number** | [BG D71/636](https://search.iisg.amsterdam/Record/1242065)
+| **Author** | Jewish Socialist Community
+| **Title** | Jewish Socialist Community forum : Cold War conspiracy.
+| **Date** | 1950-1974 1975-1999
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D71%2F636&size=small&title=Jewish+Socialist+Community+forum+%3A+Cold+War+conspiracy.+Jewish+Socialist+Community+%28New+York%29&pid=N30051002686886&publication=pictoright)| 	Rosenberg, Julius
+Rosenberg, Ethel
 
 </details>
 
