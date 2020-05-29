@@ -96,11 +96,10 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 ### Research on Games
 <details>
 <summary>Entrypoints for research</summary>
-   - Gaming as a connection with others (bindingsmiddel)
-   - Gaming as an addiction
-   - Useless hobby? Or ways to comprehend the real world/trauma
-   - Gaming as a way to spread your ideals/propaganda
-   - Desperate to escape the unrelenting nature of a corporial existence
+ - Gaming as a connection with others (bindingsmiddel)<br>
+ - Gaming as an addiction<br>
+ - Useless hobby? Or ways to comprehend the real world/trauma<br>   - Gaming as a way to spread your ideals/propaganda<br>
+ - Desperate to escape the unrelenting nature of a corporial existence<br>
 </details>
 
 <details>
