@@ -296,11 +296,13 @@ Second transcoding, a low poly rocket, which resembles a rocket from the arms ra
 ### Sculpting
 Third transcoding, digital sculpts made in Oculus Medium, with a Oculus VR headset. The sculpts are interpretations of my 5 artefacts I chose from the archive.
 
-| Artefact |  Data |
+| Transcoded Artefact | Artefact Description |
 |--|--|
-|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt1.png" width="100%"> | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt2.png" width="100%">
-|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt3.png" width="100%"> | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt4.png" width="100%">
-|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt5.png" width="100%">
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt1.png" width="100%">  | Ongewoon vriendelijk : Diplomaten-receptie in Moskou. (1954)<br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt2.png" width="100%"> | Moskou's geheime wapen. (1966) <br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt3.png" width="100%">  | Stalin: "Hm, de gijn is er af". (1949) <br> [Opland](https://nl.wikipedia.org/wiki/Opland)
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt4.png" width="100%"> | Drawing Nikita Sergeevič Chruščev, John Fitzgerald Kennedy. (1962) <br> [Metz, Lex](https://nl.wikipedia.org/wiki/Lex_Metz)
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt5.png" width="100%"> | De vijf vlyghen. (1950) <br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
 
 ### Tools
 The tools that I have used for this projects are TextEdit programs, to format and write HTML, CSS and JS. For the transcodings I used photoshop, to make sketches. I used Blender and Oculus Medium to model and texture props for my videogame.
