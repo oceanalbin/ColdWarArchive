@@ -48,11 +48,10 @@ Now I was getting excited, I learned a lot of historical facts which I either ha
 <summary>The Cold Race Concept</summary>
 <br>
 
-*Collect all the artefacts before the time runs out!* <br><br>
+*Collect all the artefacts before the time runs out!* <br>
 
-For the artefacts to use in the game I looked through the IISG for topics of the first part of the Cold war, such as the NATO and Warsaw Pact.
+Collect the 7 Anti Propaganda artefacts from the chests distributed in the game, each chest contains a piece of information about the artefact. For the artefacts to use in the game I looked through the IISG for topics of the first part of the Cold war, such as the NATO and Warsaw Pact.
 <br>
-Collect the 7 Anti Propaganda artefacts from the chests distributed in the game, each chest contains a piece of information about the artefact.<br>
 
 | Tag | Data |  
 |--|--|
