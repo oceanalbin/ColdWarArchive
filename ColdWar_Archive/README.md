@@ -110,14 +110,18 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 
   In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
 
-  <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.58.41.png" width="50%">
+  | Image | Description |  
+  |--|--|
+  | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.58.41.png" width="50%"> | A bingo winner in Montreal, Quebec in 1941
 
   [Bingo (American version)](https://en.wikipedia.org/wiki/Bingo_(American_version))
 
   > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
 
+  | Image | Description |  
+  |--|--|
+  | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="50%"> |A player wins by completing a row, column, or diagonal. The most chips one can place on a Bingo board without having a Bingo is 19, not counting the free space. In order for this to happen, only one empty cell can reside in each row and each column, and at least one empty cell must be in each diagonal.
 
-  <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="25%">
   <br>  Bingo as a teaching tool.
 
   > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
@@ -146,7 +150,9 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 
   [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
 
-  <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.58.54.png" width="50%">
+  | Image | Data |  
+  |--|--|
+  |<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.58.54.png" width="50%"> | Electronic Bingo makes use of RNG.
 </details>
 
 <details>
