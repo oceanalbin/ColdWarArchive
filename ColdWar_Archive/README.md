@@ -16,7 +16,7 @@
 7. [Bibliography](#Bibliography)
 
 # Artefacts of the Cold War
-A collection of 5 artefacts focussed on the tensions between the Eastern and Western fronts during important moments in the Cold War. These artefacts vary from posters to drawings to images.
+A collection of 12 artefacts focussed on the tensions between the Eastern and Western fronts during important moments in the Cold War. These artefacts vary from posters to drawings and photographs.
 
 ## Metadata
 | Tag | Data |  
@@ -85,6 +85,11 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 | **Title** | De Grote Drie te Parijs : De vliegende hoofdschotel.
 | **Date** | 	1950
 |![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F593&size=small&title=De+Grote+Drie+te+Parijs+%3A+De+vliegende+hoofdschotel.&oclc=943882724&pid=N30051002327663&publication=pictoright)| Paris
+**IISG Call Number** | [BG D79/460](https://search.iisg.amsterdam/Record/1245126)
+| **Author** | Doeve, Eppo
+| **Title** | Bevrijdingdsdag 1954 : Zo lang zij waken duurt de vrijheid.
+| **Date** | 	1954
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F460&size=small&title=Bevrijdingdsdag+1954+%3A+Zo+lang+zij+waken+duurt+de+vrijheid.&oclc=943880302&pid=N30051002324645&publication=pictoright)| 	United States of America, Europe, International
 
 </details>
 
