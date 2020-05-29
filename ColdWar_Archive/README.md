@@ -296,6 +296,7 @@ Second transcoding, a low poly rocket, which resembles a rocket from the arms ra
 ### Sculpting
 Third transcoding, digital sculpts made in Oculus Medium, with a Oculus VR headset. The sculpts are interpretations of my 5 artefacts I chose from the archive.
 
+| Artefact |  Data |
 |--|--|
 |<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt1.png" width="100%"> | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt2.png" width="100%">
 |<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt3.png" width="100%"> | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Sculpt4.png" width="100%">
