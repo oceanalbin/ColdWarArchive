@@ -56,17 +56,36 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 
 | Tag | Data |  
 |--|--|
-|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+D80%2F533&size=small&title=Cold+war-tours&oclc=943965742&pid=N30051002989306&publication=pictoright)| 	Molotov, Vjačeslav Michajlovič – Visjinski, Andrej – McCarthy, Joseph R – Dulles, John Foster – Truman, Harry – Stalin, Iosif Vissarionovič – Brežnev, Leonid Ilʼič – Carter, Jimmy.
 **IISG Call Number** | [BG D80/533](https://search.iisg.amsterdam/Record/1446305)
 | **Author** | Opland
 | **Title** | Cold war-tours
 | **Date** | 1980
-|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D71%2F636&size=small&title=Jewish+Socialist+Community+forum+%3A+Cold+War+conspiracy.+Jewish+Socialist+Community+%28New+York%29&pid=N30051002686886&publication=pictoright)| 	Rosenberg, Julius – Rosenberg, Ethel
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+D80%2F533&size=small&title=Cold+war-tours&oclc=943965742&pid=N30051002989306&publication=pictoright)| 	Molotov, Vjačeslav Michajlovič – Visjinski, Andrej – McCarthy, Joseph R – Dulles, John Foster – Truman, Harry – Stalin, Iosif Vissarionovič – Brežnev, Leonid Ilʼič – Carter, Jimmy.
 **IISG Call Number** | [BG D71/636](https://search.iisg.amsterdam/Record/1242065)
 | **Author** | Jewish Socialist Community
 | **Title** | Jewish Socialist Community forum : Cold War conspiracy.
 | **Date** | 1950-1974 1975-1999
-
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D71%2F636&size=small&title=Jewish+Socialist+Community+forum+%3A+Cold+War+conspiracy.+Jewish+Socialist+Community+%28New+York%29&pid=N30051002686886&publication=pictoright)| 	Rosenberg, Julius – Rosenberg, Ethel
+**IISG Call Number** | [BG D83/541](https://search.iisg.amsterdam/Record/1275615)
+| **Author** | Socialistiese Arbeiderspartij
+| **Title** | Geen vrede met de Navo.
+| **Date** | 1980-1990
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D83%2F541&size=small&title=Geen+vrede+met+de+Navo.+Socialistiese+Arbeiderspartij.&oclc=943894758&pid=N30051002854849&publication=pictoright)| 	NATO
+**IISG Call Number** | [BG D42/218](https://search.iisg.amsterdam/Record/1274615)
+| **Author** | PSP
+| **Title** | Is deze werpster soms niét gevaarlijk.
+| **Date** | 1987-1988
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D42%2F218&size=small&title=Is+deze+werpster+soms+ni%C3%A9t+gevaarlijk.+PSP.&oclc=943893717&pid=N30051001746541&publication=pictoright)| 	NATO
+**IISG Call Number** | [BG D79/586](https://search.iisg.amsterdam/Record/1251873)
+| **Author** | Doeve, Eppo
+| **Title** | De nieuwe wereldregering.
+| **Date** | 	1950
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F586&size=small&title=De+nieuwe+wereldregering.&oclc=943882595&pid=N30051002327754&publication=pictoright)| United Kingdom, United States of America, USSR, China, France, International
+**IISG Call Number** | [BG D79/593](https://search.iisg.amsterdam/Record/1251912)
+| **Author** | Doeve, Eppo
+| **Title** | De Grote Drie te Parijs : De vliegende hoofdschotel.
+| **Date** | 	1950
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F593&size=small&title=De+Grote+Drie+te+Parijs+%3A+De+vliegende+hoofdschotel.&oclc=943882724&pid=N30051002327663&publication=pictoright)| Paris
 
 </details>
 
