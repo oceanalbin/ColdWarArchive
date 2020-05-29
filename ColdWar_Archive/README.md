@@ -287,9 +287,12 @@ Only talking about specific army games and their ideology.
 
 ## Transcoding No. 2
 ### Modelling
-Second transcoding, a low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
+First time using Blender using it's modelling tools.
 
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%">
+| Result | Description |
+|--|--|
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%"> | a low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
+
 
 
 ## Transcoding No. 3
@@ -317,13 +320,10 @@ Progress of starting to learn Unity. <br>
 
 | Result | Description |
 |--|--|
-|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame.png" width="50%"> | Unity interface + making of first test  
-|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame2.png" width="50%"> | Unity's in game engine test
-|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame.png" width="50%"> | Learning how to put imported assets in a scene.
-| <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame3.png" width="50%"> | Experimenting with postprocessing.
-
-| Result | Description |
-|--|--|
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame.png" width="100%"> | Unity interface + making of first test  
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame2.png" width="100%"> | Unity's in game engine test
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame.png" width="100%"> | Learning how to put imported assets in a scene.
+| <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame3.png" width="100%"> | Experimenting with postprocessing.
 | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First.gif" width="100%"> | Video test
 | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First2.gif" width="100%"> | Terrain creation, learning to put objects in environment and controlling a player.
 
