@@ -96,11 +96,11 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 ### Research on Games
 <details>
 <summary>Entrypoints for research</summary>
-  - Gaming as a connection with others (bindingsmiddel)
-  - Gaming as an addiction
-  - Useless hobby? Or ways to comprehend the real world/trauma
-  - Gaming as a way to spread your ideals/propaganda
-  -  Desperate to escape the unrelenting nature of a corporial existence
+   * Gaming as a connection with others (bindingsmiddel)
+   * Gaming as an addiction
+   * Useless hobby? Or ways to comprehend the real world/trauma
+   * Gaming as a way to spread your ideals/propaganda
+   * Desperate to escape the unrelenting nature of a corporial existence
 </details>
 
 <details>
@@ -120,7 +120,7 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 
   | Image | Description |  
   |--|--|
-  | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="100%"> |A player wins by completing a row, column, or diagonal. The most chips one can place on a Bingo board without having a Bingo is 19, not counting the free space. In order for this to happen, only one empty cell can reside in each row and each column, and at least one empty cell must be in each diagonal.
+  | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.40.33.png" width="150%"> |A player wins by completing a row, column, or diagonal. The most chips one can place on a Bingo board without having a Bingo is 19, not counting the free space. In order for this to happen, only one empty cell can reside in each row and each column, and at least one empty cell must be in each diagonal.
 
   <br>  Bingo as a teaching tool.
 
