@@ -314,23 +314,14 @@ My original idea was to use Blender as my transcoding tool, quite soon already I
 <br>
 
 Progress of starting to learn Unity. <br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame.png" width="50%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame2.png" width="50%">
-<br>
-Learning to put a controllable character in + visual effects
-<br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame.png" width="50%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame2.png" width="50%">
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame3.png" width="50%">
 
-VideoTests:
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First.gif" width="100%">
-<br>
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First2.gif" width="100%">
-Terrain creation, learning to put objects in environment and controlling a player.
-<br>
-
-
+|--|--|
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame.png" width="50%"> | Unity interface + making of first test  
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame2.png" width="50%"> | Unity's in game engine test
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame.png" width="50%"> | Learning how to put imported assets in a scene.
+| <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame3.png" width="50%"> | Experimenting with postprocessing.
+| <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First.gif" width="100%"> | Video test
+| <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First2.gif" width="100%"> | Terrain creation, learning to put objects in environment and controlling a player.
 
 ### Aims
 The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combing them into one world. To create a new story, one where you, the player can find all the hidden Propaganda and Anti Propaganda.
