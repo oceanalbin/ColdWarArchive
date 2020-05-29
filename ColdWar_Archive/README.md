@@ -62,7 +62,8 @@ Topics from the first part of the Cold War to use in the game and look for in th
 
 <br>
 Filling environment with propaganda objects:<br>
-Posters will be flying around. ("the over the top distribution of propaganda/anti propaganda leaflets")<br>
+Collect the Anti Propaganda from the chests distributed in the game, each chest contains a piece of information about the artefact.<br>
+
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Leaf.png" width="50%">
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Leaf2.png" width="50%">
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Leaf3.png" width="50%">
@@ -77,7 +78,7 @@ Posters will be flying around. ("the over the top distribution of propaganda/ant
 ### Research on Games
 <details>
 <summary>Entrypoints for research</summary>
-
+<br>
 - Gaming as a connection with others (bindingsmiddel)
 - Gaming as an addiction
 - Useless hobby? Or ways to comprehend the real world/trauma
@@ -171,11 +172,12 @@ Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein
     Some streamers have huge fanbases, whom watch their livestreams, most streamers try not to be political, but this platform could be a perfect way to distribute propaganda.
     Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
 
-    <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/C9spQFDXcAAXPRP.jpg" width="50%">
+    | Image | Description |  
+    |--|--|
+    | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/C9spQFDXcAAXPRP.jpg" width="50%"> | Robbaz his streaming schedule.
+    | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/download.jpeg" width="50%"> | Robbaz his streaming overview.
+    | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg" width="50%">  | Screencapture from Ninja his Fortnite stream.
 
-    <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg" width="50%">  
-
-    <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/download.jpeg" width="50%">
 
 
 </details>
@@ -199,30 +201,6 @@ This artefact from the IISG let me refocus my aim in the project, by focussing o
 | **Date** | 1950-1974 1975-1999
 | **Note** | Boardgame with caricatures, Stalin can be seen on it.
 |![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D65%2F277&size=small&title=Stavime+Stalinuv+pomnik.&pid=N30051002091889&publication=pictoright)| Stavime Stalinuv Pomnik Stavime = to represent/introduce/build/construct Stalinuv = Stalin Pomnik = monument/memorial/statue.
-
-
-
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-16_at_09.07.36.png" width="100%">
-
-MetaData:
-Stavime Stalinuv Pomnik
-Stavime = to represent/introduce/build/construct
-Stalinuv = Stalin
-Pomnik = monument/memorial/statue
-
-1950-1974
-1975-1999
-
-Stalin, former Russian President
-
-Caricature
-
-Czechoslovakia
-
-<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/StalinBoard.jpg" width="50%">
-
-[https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
-
 </details>
 
 <details>
