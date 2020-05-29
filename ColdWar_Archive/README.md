@@ -56,16 +56,17 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 
 | Tag | Data |  
 |--|--|
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+D80%2F533&size=small&title=Cold+war-tours&oclc=943965742&pid=N30051002989306&publication=pictoright)| 	Molotov, Vjačeslav Michajlovič – Visjinski, Andrej – McCarthy, Joseph R – Dulles, John Foster – Truman, Harry – Stalin, Iosif Vissarionovič – Brežnev, Leonid Ilʼič – Carter, Jimmy.
 **IISG Call Number** | [BG D80/533](https://search.iisg.amsterdam/Record/1446305)
 | **Author** | Opland
 | **Title** | Cold war-tours
 | **Date** | 1980
-|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Opland&callnumber=BG+D80%2F533&size=small&title=Cold+war-tours&oclc=943965742&pid=N30051002989306&publication=pictoright)| 	Molotov, Vjačeslav Michajlovič – Visjinski, Andrej – McCarthy, Joseph R – Dulles, John Foster – Truman, Harry – Stalin, Iosif Vissarionovič – Brežnev, Leonid Ilʼič – Carter, Jimmy.
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D71%2F636&size=small&title=Jewish+Socialist+Community+forum+%3A+Cold+War+conspiracy.+Jewish+Socialist+Community+%28New+York%29&pid=N30051002686886&publication=pictoright)| 	Rosenberg, Julius – Rosenberg, Ethel
 **IISG Call Number** | [BG D71/636](https://search.iisg.amsterdam/Record/1242065)
 | **Author** | Jewish Socialist Community
 | **Title** | Jewish Socialist Community forum : Cold War conspiracy.
 | **Date** | 1950-1974 1975-1999
-|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D71%2F636&size=small&title=Jewish+Socialist+Community+forum+%3A+Cold+War+conspiracy.+Jewish+Socialist+Community+%28New+York%29&pid=N30051002686886&publication=pictoright)| 	Rosenberg, Julius – Rosenberg, Ethel
+
 
 </details>
 
