@@ -315,6 +315,7 @@ My original idea was to use Blender as my transcoding tool, quite soon already I
 
 Progress of starting to learn Unity. <br>
 
+| Result | Description |
 |--|--|
 |<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame.png" width="50%"> | Unity interface + making of first test  
 |<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame2.png" width="50%"> | Unity's in game engine test
