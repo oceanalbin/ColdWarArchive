@@ -321,6 +321,9 @@ Progress of starting to learn Unity. <br>
 |<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/FirstGame2.png" width="50%"> | Unity's in game engine test
 |<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame.png" width="50%"> | Learning how to put imported assets in a scene.
 | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/SecondGame3.png" width="50%"> | Experimenting with postprocessing.
+
+| Result | Description |
+|--|--|
 | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First.gif" width="100%"> | Video test
 | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First2.gif" width="100%"> | Terrain creation, learning to put objects in environment and controlling a player.
 
