@@ -188,6 +188,7 @@ Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein
 <summary>New Artefact — Boardgame with possible ties to propaganda</summary>
 <br>
 
+This artefact from the IISG let me refocus my aim in the project, by focussing on Russian propaganda artefacts I eventually stumbled upon the topic of the Cold War.
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-16_at_09.07.36.png" width="100%">
 
 MetaData:
@@ -206,26 +207,6 @@ Caricature
 Czechoslovakia
 
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/StalinBoard.jpg" width="50%">
-
-What do I see in the picture?
-
-Stamp with a head
-
-Empty beerglass with red background and hammers & sickles surrounding it
-
-A dog?
-
-—
-
-Walking snowman—>ties with Marxism?
-
-Full glass of beer, filled with hammers & sickles
-
-A judge? with a loop? under it a hammer & sickles
-
-Someone voting, looks like he isn't there on freewill
-
-Stalin, with a commander and soldiers? Background Clouds filled with stars.
 
 [https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
 
@@ -291,7 +272,7 @@ First time using Blender using it's modelling tools.
 
 | Result | Description |
 |--|--|
-|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%"> | a low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
+|<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Rocket3.png" width="100%"> | A low poly rocket, which resembles a rocket from the arms race between the Western and Eastern front of the Cold War.
 
 
 
