@@ -189,6 +189,19 @@ Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein
 <br>
 
 This artefact from the IISG let me refocus my aim in the project, by focussing on Russian propaganda artefacts I eventually stumbled upon the topic of the Cold War.
+
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [CSD BG D65/277](https://search.iisg.amsterdam/Record/1152336)
+| **Physical Description** | Boardgame.
+| **Type** | Object
+| **Medium** | Game
+| **Date** | 1950-1974 1975-1999
+| **Note** | Boardgame with caricatures, Stalin can be seen on it.
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D65%2F277&size=small&title=Stavime+Stalinuv+pomnik.&pid=N30051002091889&publication=pictoright)| Stavime Stalinuv Pomnik Stavime = to represent/introduce/build/construct Stalinuv = Stalin Pomnik = monument/memorial/statue.
+
+
+
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-16_at_09.07.36.png" width="100%">
 
 MetaData:
