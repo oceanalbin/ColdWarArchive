@@ -250,16 +250,9 @@ First transcoding, to get the ball rolling. A mindmap about America's current st
 <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/USA.jpg" width="100%">
 
 
-Using C# Unity – Huge Abstract Boardgames
-Different ideologies
-A tool to analyse other games use of Propaganda
-Archiving a war experience—> Be a hero within this history
-Only talking about specific army games and their ideology.
-
-
 ## Transcoding No. 2
 ### Modelling
-First time using Blender using it's modelling tools.
+First time using Blender and it's modelling tools.
 
 | Result | Description |
 |--|--|
@@ -300,7 +293,7 @@ Progress of starting to learn Unity. <br>
 | <img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/video/First2.gif" width="100%"> | Terrain creation, learning to put objects in environment and controlling a player.
 
 ### Aims
-The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combing them into one world. To create a new story, one where you, the player can find all the hidden Propaganda and Anti Propaganda.
+The tool is made for getting a better understanding of artefacts from the Cold war in the IISG, combining them into one world. To create a new story, one where you, the player can find all the hidden Propaganda and Anti Propaganda.
 
 ### Methods
 C# — HTML — CSS — JS
