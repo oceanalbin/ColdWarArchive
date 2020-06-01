@@ -44,8 +44,17 @@ Now I was getting excited, I learned a lot of historical facts which I either ha
 | [<img src="https://search.iisg.amsterdam/Cover/Show?author=Metz%2C+Lex&callnumber=BG+PM2%2F15-139&size=small&title=Drawing+Nikita+Sergeevi%C4%8D+Chru%C5%A1%C4%8Dev%2C+John+Fitzgerald+Kennedy&oclc=982970835&pid=30051003025415&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/730697) | Drawing Nikita Sergeevič Chruščev, John Fitzgerald Kennedy. (1962) <br> [Metz, Lex](https://nl.wikipedia.org/wiki/Lex_Metz)
 | [<img src="https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F592&size=small&title=Voorjaar+1950+%3A+%22De+vijf+vlyghen%22&oclc=943882721&pid=30051002327614&publication=pictoright" width="50%">](https://search.iisg.amsterdam/Record/1251908) | De vijf vlyghen. (1950) <br> [Doeve, Eppo](https://nl.wikipedia.org/wiki/Eppo_Doeve)
 
+
 <details>
-<summary>The Cold Race Concept</summary>
+
+
+<summary>
+
+The Cold Race Concept
+
+</summary>
+
+
 <br>
 
 *Collect all the artefacts before the time runs out!* <br>
@@ -91,22 +100,46 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 | **Date** | 	1954
 |![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Doeve%2C+Eppo&callnumber=BG+D79%2F460&size=small&title=Bevrijdingdsdag+1954+%3A+Zo+lang+zij+waken+duurt+de+vrijheid.&oclc=943880302&pid=N30051002324645&publication=pictoright)| 	United States of America, Europe, International
 
+
 </details>
 
+
 ### Research on Games
+
+
 <details>
-<summary>Entrypoints for research</summary>
+
+<summary>
+
+Entrypoints for research
+
+</summary>
+
 <br>
+
  - Gaming as a connection with others (bindingsmiddel)<br>
  - Gaming as an addiction<br>
  - Useless hobby? Or ways to comprehend the real world/trauma<br>   
  - Gaming as a way to spread your ideals/propaganda<br>
  - Desperate to escape the unrelenting nature of a corporial existence<br>
+
+
 </details>
 
+
+
+
 <details>
-<summary>What is Bingo?</summary>
+
+
+<summary>
+
+What is Bingo?
+
+</summary>
+
 <br>
+
   A game which dates back to 1530 in Italy, the standardised version dates back to 1920's America.
 
   In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
@@ -154,10 +187,22 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
   | Image | Description |  
   |--|--|
   |<img src="https://github.com/oceanalbin/ColdWarArchive/blob/master/ColdWar_Archive/Documentation/img/Screen_Shot_2020-03-02_at_11.58.54.png" width="50%"> | Electronic Bingo makes use of RNG.
+
+
+
 </details>
 
+
+
 <details>
-<summary>Video games and Propaganda</summary>
+
+
+<summary>
+
+Video games and Propaganda
+
+</summary>
+
 <br>
 
 Jamil Jan Kochai tells how all of his life he is forced by big shooter games to see his own nation as terrorists. In the game the metal gear solid which is set in afghanistan he goes in game to the place he used to live and finds his father and brother. This podcast kickstarted my research into propaganda in video games.
@@ -208,10 +253,19 @@ Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein
 
 
 
+
 ### Research on Russia and propaganda
 
+
+
 <details>
-<summary>New Artefact — Boardgame with possible ties to propaganda</summary>
+
+<summary>
+
+New Artefact — Boardgame with possible ties to propaganda
+
+</summary>
+
 <br>
 
 This artefact from the IISG let me refocus my aim in the project, by focussing on Russian propaganda artefacts I eventually stumbled upon the topic of the Cold War.
@@ -225,10 +279,22 @@ This artefact from the IISG let me refocus my aim in the project, by focussing o
 | **Date** | 1950-1974 1975-1999
 | **Note** | Boardgame with caricatures, Stalin can be seen on it.
 |![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+D65%2F277&size=small&title=Stavime+Stalinuv+pomnik.&pid=N30051002091889&publication=pictoright)| Stavime Stalinuv Pomnik Stavime = to represent/introduce/build/construct Stalinuv = Stalin Pomnik = monument/memorial/statue.
+
+
+
 </details>
 
+
+
 <details>
-<summary>Russia, Stalin and Propaganda</summary>
+
+
+<summary>
+
+Russia, Stalin and Propaganda
+
+</summary>
+
 <br>
 
 *What forms of propaganda did Stalin use?*
@@ -253,14 +319,27 @@ Statues of Stalin were also a big part of Stalins propaganda.
 
 [Joseph Stalin & Soviet Propaganda: Techniques & Examples - Video & Lesson Transcript | Study.com](https://study.com/academy/lesson/joseph-stalin-soviet-propaganda-techniques-examples.html)
 
+
+
 </details>
 
+
+
 <details>
-<summary>The Cold War</summary>
+
+
+<summary>
+
+The Cold War
+
+</summary>
+
 <br>
+
 The Cold War was a period of geopolitical tension between the Soviet Union and the United States and their respective allies, the Eastern Bloc and the Western Bloc, after World War II. The period is generally considered to span the 1947 Truman Doctrine to the 1991 dissolution of the Soviet Union. The term "cold" is used because there was no large-scale fighting directly between the two superpowers, but they each supported major regional conflicts known as proxy wars. The conflict was based around the ideological and geopolitical struggle for global influence by the two powers, following their temporary alliance and victory against Nazi Germany in 1945. The doctrine of mutually assured destruction (MAD) discouraged a pre-emptive attack by either side. Aside from the nuclear arsenal development and conventional military deployment, the struggle for dominance was expressed via indirect means such as psychological warfare, propaganda campaigns, espionage, far-reaching embargoes, rivalry at sports events and technological competitions such as the Space Race.<br><br>
 
 *So I have a good amount of entry points to make transcodings about: Western vs Eastern block, proxy wars, temporary alliance, Nuclear Arms Race(Coding direction), Military deployment, struggle of dominance, psychological warfare, propaganda campaigns, espionage and Space Race, to name a few.*
+
 
 </details>
 
