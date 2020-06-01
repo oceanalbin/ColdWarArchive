@@ -49,9 +49,7 @@ Now I was getting excited, I learned a lot of historical facts which I either ha
 
 
 <summary>
-
 The Cold Race Concept
-
 </summary>
 
 
@@ -110,9 +108,7 @@ Collect the 7 Anti Propaganda artefacts from the chests distributed in the game,
 <details>
 
 <summary>
-
 Entrypoints for research
-
 </summary>
 
 <br>
@@ -133,9 +129,7 @@ Entrypoints for research
 
 
 <summary>
-
 What is Bingo?
-
 </summary>
 
 <br>
@@ -198,9 +192,7 @@ What is Bingo?
 
 
 <summary>
-
 Video games and Propaganda
-
 </summary>
 
 <br>
@@ -261,9 +253,7 @@ Game examples: Call of Duty("terrorists", of multiple etniticities), Wolfenstein
 <details>
 
 <summary>
-
 New Artefact — Boardgame with possible ties to propaganda
-
 </summary>
 
 <br>
@@ -290,9 +280,7 @@ This artefact from the IISG let me refocus my aim in the project, by focussing o
 
 
 <summary>
-
 Russia, Stalin and Propaganda
-
 </summary>
 
 <br>
@@ -329,9 +317,7 @@ Statues of Stalin were also a big part of Stalins propaganda.
 
 
 <summary>
-
 The Cold War
-
 </summary>
 
 <br>
